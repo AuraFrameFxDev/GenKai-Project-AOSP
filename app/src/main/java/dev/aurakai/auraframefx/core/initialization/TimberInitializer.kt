@@ -47,4 +47,7 @@ class TimberInitializer @Inject constructor() {
 
 interface TimberInitializer {
     fun init(app: Application)
+    fun logHealthMetric(string: String, eventJson: String) {
+        TODO("Not yet implemented")
+    }
 }

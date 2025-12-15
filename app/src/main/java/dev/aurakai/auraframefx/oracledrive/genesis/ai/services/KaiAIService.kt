@@ -189,7 +189,8 @@ class KaiAIService @Inject constructor(
                 content = "Security analysis error: ${e.message}",
                 confidence = 0.0f,
                 error = e.message,
-                agent = AgentType.KAI
+                agentName = "KAI",
+                agentType = AgentType.KAI
             ))
         }
     }

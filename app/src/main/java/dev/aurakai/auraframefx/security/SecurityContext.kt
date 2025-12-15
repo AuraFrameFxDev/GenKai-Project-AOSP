@@ -57,20 +57,6 @@ class SecurityContext @Inject constructor(
     }
 
     /**
-     * Placeholder for content validation logic.
-     */
-    fun validateContent(content: String) {
-        // TODO: Implement real validation logic
-    }
-
-    /**
-     * Validates image data for security compliance.
-     */
-    fun validateImageData(imageData: ByteArray) {
-        Timber.tag(TAG).d("Validating image data of size: ${imageData.size} bytes")
-    }
-
-    /**
      * Start monitoring for security threats in the background
      */
     fun startThreatDetection() {
@@ -527,10 +513,4 @@ data class SharedSecureContext(
         result = 31 * result + expiresAt.hashCode()
         return result
     }
-}
-
-// Placeholder for KeystoreManager - this should be implemented separately
-interface KeystoreManager {
-    fun getOrCreateSecretKey(): javax.crypto.SecretKey?
-    fun getDecryptionCipher(iv: ByteArray): Cipher?
 }

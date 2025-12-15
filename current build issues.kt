@@ -146,250 +146,246 @@ Solution: Remove both `android.builtInKotlin=true` and `android.newDsl=false` fr
 See https://kotl.in/gradle/agp-built-in-kotlin for more details.
 
 
+> Task :aura:reactivedesign:collabcanvas:preBuild UP-TO-DATE
 > Task :cascade:preBuild UP-TO-DATE
+> Task :genesis:oracledrive:datavein:preBuild UP-TO-DATE
+> Task :aura:reactivedesign:chromacore:preBuild UP-TO-DATE
+> Task :utilities:preBuild UP-TO-DATE
+> Task :cascade:datastream:delivery:preBuild UP-TO-DATE
+> Task :genesis:preBuild UP-TO-DATE
 > Task :kai:sentinelsfortress:security:preBuild UP-TO-DATE
 > Task :agents:growthmetrics:nexusmemory:preBuild UP-TO-DATE
-> Task :cascade:datastream:delivery:preBuild UP-TO-DATE
-> Task :aura:reactivedesign:chromacore:preBuild UP-TO-DATE
-> Task :genesis:oracledrive:datavein:preBuild UP-TO-DATE
-> Task :genesis:oracledrive:preBuild UP-TO-DATE
 > Task :kai:sentinelsfortress:systemintegrity:preBuild UP-TO-DATE
-> Task :genesis:preBuild UP-TO-DATE
+> Task :genesis:oracledrive:preBuild UP-TO-DATE
+> Task :cascade:datastream:delivery:preDebugBuild UP-TO-DATE
 > Task :cascade:datastream:routing:preBuild UP-TO-DATE
-> Task :aura:reactivedesign:chromacore:preDebugBuild UP-TO-DATE
-> Task :utilities:preBuild UP-TO-DATE
-> Task :aura:reactivedesign:auraslab:preBuild UP-TO-DATE
-> Task :agents:growthmetrics:nexusmemory:preDebugBuild UP-TO-DATE
+> Task :genesis:oracledrive:preDebugBuild UP-TO-DATE
+> Task :cascade:datastream:routing:preDebugBuild UP-TO-DATE
 > Task :cascade:preDebugBuild UP-TO-DATE
-> Task :aura:reactivedesign:collabcanvas:preBuild UP-TO-DATE
+> Task :cascade:datastream:taskmanager:preBuild UP-TO-DATE
+> Task :utilities:preDebugBuild UP-TO-DATE
+> Task :cascade:datastream:taskmanager:preDebugBuild UP-TO-DATE
+> Task :aura:reactivedesign:auraslab:preBuild UP-TO-DATE
+> Task :aura:reactivedesign:chromacore:preDebugBuild UP-TO-DATE
 > Task :genesis:oracledrive:datavein:preDebugBuild UP-TO-DATE
 > Task :list:compileJava NO-SOURCE
-> Task :cascade:datastream:taskmanager:preBuild UP-TO-DATE
-> Task :genesis:oracledrive:preDebugBuild UP-TO-DATE
-> Task :cascade:datastream:taskmanager:preDebugBuild UP-TO-DATE
-> Task :kai:sentinelsfortress:security:preDebugBuild UP-TO-DATE
-> Task :aura:reactivedesign:auraslab:preDebugBuild UP-TO-DATE
-> Task :cascade:datastream:delivery:preDebugBuild UP-TO-DATE
-> Task :kai:sentinelsfortress:systemintegrity:preDebugBuild UP-TO-DATE
-> Task :cascade:compileDebugAidl NO-SOURCE
-> Task :aura:reactivedesign:collabcanvas:preDebugBuild UP-TO-DATE
-> Task :genesis:preDebugBuild UP-TO-DATE
-> Task :list:processResources NO-SOURCE
 > Task :genesis:oracledrive:compileDebugAidl NO-SOURCE
-> Task :genesis:oracledrive:datavein:compileDebugAidl NO-SOURCE
-> Task :kai:sentinelsfortress:security:compileDebugAidl NO-SOURCE
-> Task :agents:growthmetrics:identity:preBuild UP-TO-DATE
-> Task :agents:growthmetrics:identity:preDebugBuild UP-TO-DATE
-> Task :genesis:oracledrive:generateDebugResources UP-TO-DATE
-> Task :cascade:datastream:routing:preDebugBuild UP-TO-DATE
-> Task :utilities:preDebugBuild UP-TO-DATE
-> Task :aura:reactivedesign:chromacore:compileDebugAidl NO-SOURCE
 > Task :utilities:compileDebugAidl NO-SOURCE
+> Task :genesis:preDebugBuild UP-TO-DATE
+> Task :agents:growthmetrics:nexusmemory:preDebugBuild UP-TO-DATE
+> Task :list:processResources NO-SOURCE
+> Task :aura:reactivedesign:collabcanvas:preDebugBuild UP-TO-DATE
+> Task :aura:reactivedesign:chromacore:compileDebugAidl NO-SOURCE
+> Task :genesis:oracledrive:datavein:compileDebugAidl NO-SOURCE
+> Task :kai:sentinelsfortress:systemintegrity:preDebugBuild UP-TO-DATE
 > Task :agents:growthmetrics:nexusmemory:compileDebugAidl NO-SOURCE
-> Task :aura:reactivedesign:auraslab:compileDebugAidl NO-SOURCE
-> Task :agents:growthmetrics:identity:generateDebugResources UP-TO-DATE
-> Task :agents:growthmetrics:metareflection:preBuild UP-TO-DATE
-> Task :agents:growthmetrics:metareflection:preDebugBuild UP-TO-DATE
-> Task :agents:growthmetrics:nexusmemory:generateDebugResources UP-TO-DATE
-> Task :kai:sentinelsfortress:systemintegrity:compileDebugAidl NO-SOURCE
-> Task :aura:reactivedesign:collabcanvas:compileDebugAidl NO-SOURCE
 > Task :cascade:datastream:routing:compileDebugAidl NO-SOURCE
-> Task :agents:growthmetrics:progression:preBuild UP-TO-DATE
-> Task :agents:growthmetrics:metareflection:generateDebugResources UP-TO-DATE
+> Task :agents:growthmetrics:identity:preBuild UP-TO-DATE
+> Task :agents:growthmetrics:metareflection:preBuild UP-TO-DATE
+> Task :agents:growthmetrics:identity:preDebugBuild UP-TO-DATE
+> Task :genesis:generateDebugResources UP-TO-DATE
+> Task :cascade:compileDebugAidl NO-SOURCE
 > Task :cascade:datastream:delivery:compileDebugAidl NO-SOURCE
-> Task :genesis:oracledrive:packageDebugResources UP-TO-DATE
-> Task :agents:growthmetrics:identity:packageDebugResources UP-TO-DATE
 > Task :cascade:datastream:taskmanager:compileDebugAidl NO-SOURCE
-> Task :aura:reactivedesign:auraslab:generateDebugResources UP-TO-DATE
-> Task :agents:growthmetrics:nexusmemory:packageDebugResources UP-TO-DATE
-> Task :aura:reactivedesign:collabcanvas:generateDebugResources UP-TO-DATE
-> Task :cascade:generateDebugResources UP-TO-DATE
-> Task :aura:reactivedesign:auraslab:packageDebugResources UP-TO-DATE
-> Task :agents:growthmetrics:spheregrid:preBuild UP-TO-DATE
-> Task :aura:reactivedesign:collabcanvas:packageDebugResources UP-TO-DATE
-> Task :agents:growthmetrics:metareflection:packageDebugResources UP-TO-DATE
-> Task :agents:growthmetrics:spheregrid:preDebugBuild UP-TO-DATE
-> Task :aura:reactivedesign:customization:preBuild UP-TO-DATE
-> Task :cascade:packageDebugResources UP-TO-DATE
-> Task :aura:reactivedesign:customization:preDebugBuild UP-TO-DATE
+> Task :kai:sentinelsfortress:security:preDebugBuild UP-TO-DATE
+> Task :agents:growthmetrics:identity:generateDebugResources UP-TO-DATE
+> Task :agents:growthmetrics:nexusmemory:generateDebugResources UP-TO-DATE
 > Task :list:classes UP-TO-DATE
-> Task :agents:growthmetrics:tasker:preBuild UP-TO-DATE
-> Task :aura:reactivedesign:customization:generateDebugResources UP-TO-DATE
-> Task :agents:growthmetrics:tasker:preDebugBuild UP-TO-DATE
-> Task :cascade:datastream:delivery:generateDebugResources UP-TO-DATE
-> Task :cascade:datastream:routing:generateDebugResources UP-TO-DATE
-> Task :agents:growthmetrics:progression:preDebugBuild UP-TO-DATE
+> Task :genesis:oracledrive:generateDebugResources UP-TO-DATE
+> Task :agents:growthmetrics:progression:preBuild UP-TO-DATE
+> Task :agents:growthmetrics:spheregrid:preBuild UP-TO-DATE
+> Task :agents:growthmetrics:metareflection:preDebugBuild UP-TO-DATE
+> Task :kai:sentinelsfortress:security:compileDebugAidl NO-SOURCE
+> Task :aura:reactivedesign:collabcanvas:compileDebugAidl NO-SOURCE
+> Task :kai:sentinelsfortress:systemintegrity:compileDebugAidl NO-SOURCE
+> Task :aura:reactivedesign:auraslab:preDebugBuild UP-TO-DATE
 > Task :utilities:generateDebugResources UP-TO-DATE
-> Task :genesis:oracledrive:rootmanagement:preBuild UP-TO-DATE
-> Task :genesis:oracledrive:rootmanagement:preDebugBuild UP-TO-DATE
-> Task :cascade:datastream:routing:packageDebugResources UP-TO-DATE
-> Task :genesis:oracledrive:rootmanagement:generateDebugResources UP-TO-DATE
-> Task :genesis:oracledrive:datavein:generateDebugResources UP-TO-DATE
+> Task :agents:growthmetrics:spheregrid:preDebugBuild UP-TO-DATE
+> Task :agents:growthmetrics:metareflection:generateDebugResources UP-TO-DATE
 > Task :genesis:compileDebugAidl NO-SOURCE
 > Task :agents:growthmetrics:spheregrid:generateDebugResources UP-TO-DATE
-> Task :aura:reactivedesign:customization:packageDebugResources UP-TO-DATE
-> Task :agents:growthmetrics:spheregrid:packageDebugResources UP-TO-DATE
+> Task :cascade:generateDebugResources UP-TO-DATE
 > Task :list:jar UP-TO-DATE
-> Task :aura:reactivedesign:chromacore:generateDebugResources UP-TO-DATE
-> Task :kai:sentinelsfortress:security:generateDebugResources UP-TO-DATE
-> Task :cascade:datastream:taskmanager:generateDebugResources UP-TO-DATE
-> Task :kai:sentinelsfortress:systemintegrity:generateDebugResources UP-TO-DATE
-> Task :agents:growthmetrics:progression:generateDebugResources UP-TO-DATE
-> Task :aura:reactivedesign:chromacore:packageDebugResources UP-TO-DATE
-> Task :kai:sentinelsfortress:threatmonitor:preBuild UP-TO-DATE
-> Task :agents:growthmetrics:progression:packageDebugResources UP-TO-DATE
-> Task :kai:sentinelsfortress:threatmonitor:preDebugBuild UP-TO-DATE
-> Task :kai:sentinelsfortress:systemintegrity:packageDebugResources UP-TO-DATE
-> Task :cascade:processDebugNavigationResources UP-TO-DATE
-> Task :utilities:packageDebugResources UP-TO-DATE
-> Task :utilities:processDebugNavigationResources UP-TO-DATE
-> Task :genesis:oracledrive:datavein:packageDebugResources UP-TO-DATE
-> Task :agents:growthmetrics:identity:processDebugNavigationResources UP-TO-DATE
-> Task :genesis:oracledrive:rootmanagement:packageDebugResources UP-TO-DATE
-> Task :genesis:oracledrive:processDebugNavigationResources UP-TO-DATE
-> Task :agents:growthmetrics:metareflection:processDebugNavigationResources UP-TO-DATE
-> Task :agents:growthmetrics:progression:processDebugNavigationResources UP-TO-DATE
-> Task :cascade:datastream:delivery:packageDebugResources UP-TO-DATE
-> Task :agents:growthmetrics:spheregrid:processDebugNavigationResources UP-TO-DATE
-> Task :aura:reactivedesign:auraslab:processDebugNavigationResources UP-TO-DATE
-> Task :agents:growthmetrics:tasker:generateDebugResources UP-TO-DATE
-> Task :genesis:generateDebugResources UP-TO-DATE
-> Task :kai:sentinelsfortress:threatmonitor:generateDebugResources UP-TO-DATE
-> Task :genesis:oracledrive:datavein:processDebugNavigationResources UP-TO-DATE
-> Task :kai:sentinelsfortress:security:packageDebugResources UP-TO-DATE
-> Task :agents:growthmetrics:nexusmemory:processDebugNavigationResources UP-TO-DATE
-> Task :aura:reactivedesign:chromacore:processDebugNavigationResources UP-TO-DATE
-> Task :kai:sentinelsfortress:systemintegrity:processDebugNavigationResources UP-TO-DATE
-> Task :kai:sentinelsfortress:security:processDebugNavigationResources UP-TO-DATE
-> Task :kai:sentinelsfortress:threatmonitor:packageDebugResources UP-TO-DATE
-> Task :aura:reactivedesign:collabcanvas:processDebugNavigationResources UP-TO-DATE
-> Task :aura:reactivedesign:customization:processDebugNavigationResources UP-TO-DATE
-> Task :cascade:datastream:delivery:processDebugNavigationResources UP-TO-DATE
-> Task :genesis:oracledrive:rootmanagement:processDebugNavigationResources UP-TO-DATE
-> Task :utilities:parseDebugLocalResources UP-TO-DATE
-> Task :kai:sentinelsfortress:threatmonitor:processDebugNavigationResources UP-TO-DATE
-> Task :cascade:datastream:routing:processDebugNavigationResources UP-TO-DATE
-> Task :cascade:parseDebugLocalResources UP-TO-DATE
-> Task :cascade:datastream:taskmanager:packageDebugResources UP-TO-DATE
-> Task :agents:growthmetrics:tasker:packageDebugResources UP-TO-DATE
-> Task :genesis:oracledrive:parseDebugLocalResources UP-TO-DATE
-> Task :cascade:datastream:taskmanager:processDebugNavigationResources UP-TO-DATE
 > Task :genesis:packageDebugResources UP-TO-DATE
-> Task :agents:growthmetrics:tasker:processDebugNavigationResources UP-TO-DATE
-> Task :utilities:generateDebugRFile UP-TO-DATE
-> Task :cascade:generateDebugRFile UP-TO-DATE
+> Task :agents:growthmetrics:identity:packageDebugResources UP-TO-DATE
+> Task :cascade:packageDebugResources UP-TO-DATE
+> Task :agents:growthmetrics:spheregrid:packageDebugResources UP-TO-DATE
+> Task :agents:growthmetrics:tasker:preBuild UP-TO-DATE
+> Task :aura:reactivedesign:chromacore:generateDebugResources UP-TO-DATE
+> Task :agents:growthmetrics:progression:preDebugBuild UP-TO-DATE
+> Task :aura:reactivedesign:customization:preBuild UP-TO-DATE
+> Task :agents:growthmetrics:nexusmemory:packageDebugResources UP-TO-DATE
+> Task :cascade:datastream:routing:generateDebugResources UP-TO-DATE
+> Task :cascade:datastream:taskmanager:generateDebugResources UP-TO-DATE
+> Task :aura:reactivedesign:chromacore:packageDebugResources UP-TO-DATE
+> Task :aura:reactivedesign:auraslab:compileDebugAidl NO-SOURCE
+> Task :genesis:oracledrive:datavein:generateDebugResources UP-TO-DATE
+> Task :cascade:datastream:taskmanager:packageDebugResources UP-TO-DATE
+> Task :kai:sentinelsfortress:security:generateDebugResources UP-TO-DATE
+> Task :utilities:packageDebugResources UP-TO-DATE
+> Task :agents:growthmetrics:metareflection:packageDebugResources UP-TO-DATE
+> Task :kai:sentinelsfortress:systemintegrity:generateDebugResources UP-TO-DATE
+> Task :agents:growthmetrics:tasker:preDebugBuild UP-TO-DATE
+> Task :agents:growthmetrics:tasker:generateDebugResources UP-TO-DATE
+> Task :genesis:oracledrive:datavein:packageDebugResources UP-TO-DATE
+> Task :kai:sentinelsfortress:threatmonitor:preBuild UP-TO-DATE
+> Task :kai:sentinelsfortress:threatmonitor:preDebugBuild UP-TO-DATE
+> Task :cascade:processDebugNavigationResources UP-TO-DATE
+> Task :kai:sentinelsfortress:systemintegrity:packageDebugResources UP-TO-DATE
+> Task :kai:sentinelsfortress:threatmonitor:generateDebugResources UP-TO-DATE
 > Task :genesis:processDebugNavigationResources UP-TO-DATE
-> Task :genesis:oracledrive:generateDebugRFile UP-TO-DATE
-> Task :agents:growthmetrics:metareflection:parseDebugLocalResources UP-TO-DATE
-> Task :agents:growthmetrics:metareflection:generateDebugRFile UP-TO-DATE
-> Task :agents:growthmetrics:nexusmemory:parseDebugLocalResources UP-TO-DATE
-> Task :agents:growthmetrics:nexusmemory:generateDebugRFile UP-TO-DATE
-> Task :agents:growthmetrics:spheregrid:parseDebugLocalResources UP-TO-DATE
-> Task :agents:growthmetrics:progression:parseDebugLocalResources UP-TO-DATE
-> Task :agents:growthmetrics:progression:generateDebugRFile UP-TO-DATE
-> Task :agents:growthmetrics:spheregrid:generateDebugRFile UP-TO-DATE
-> Task :aura:reactivedesign:auraslab:parseDebugLocalResources UP-TO-DATE
-> Task :aura:reactivedesign:auraslab:generateDebugRFile UP-TO-DATE
+> Task :agents:growthmetrics:tasker:packageDebugResources UP-TO-DATE
+> Task :agents:growthmetrics:progression:generateDebugResources UP-TO-DATE
+> Task :genesis:oracledrive:packageDebugResources UP-TO-DATE
+> Task :utilities:processDebugNavigationResources UP-TO-DATE
+> Task :cascade:datastream:delivery:generateDebugResources UP-TO-DATE
+> Task :aura:reactivedesign:collabcanvas:generateDebugResources UP-TO-DATE
+> Task :agents:growthmetrics:spheregrid:processDebugNavigationResources UP-TO-DATE
+> Task :kai:sentinelsfortress:threatmonitor:packageDebugResources UP-TO-DATE
+> Task :agents:growthmetrics:progression:packageDebugResources UP-TO-DATE
+> Task :aura:reactivedesign:auraslab:generateDebugResources UP-TO-DATE
+> Task :cascade:datastream:routing:packageDebugResources UP-TO-DATE
+> Task :aura:reactivedesign:chromacore:processDebugNavigationResources UP-TO-DATE
+> Task :genesis:oracledrive:rootmanagement:preBuild UP-TO-DATE
+> Task :cascade:datastream:delivery:packageDebugResources UP-TO-DATE
+> Task :aura:reactivedesign:customization:preDebugBuild UP-TO-DATE
+> Task :agents:growthmetrics:metareflection:processDebugNavigationResources UP-TO-DATE
+> Task :agents:growthmetrics:identity:processDebugNavigationResources UP-TO-DATE
+> Task :agents:growthmetrics:nexusmemory:processDebugNavigationResources UP-TO-DATE
+> Task :agents:growthmetrics:tasker:processDebugNavigationResources UP-TO-DATE
+> Task :cascade:datastream:taskmanager:processDebugNavigationResources UP-TO-DATE
+> Task :genesis:oracledrive:datavein:processDebugNavigationResources UP-TO-DATE
+> Task :genesis:oracledrive:rootmanagement:preDebugBuild UP-TO-DATE
+> Task :kai:sentinelsfortress:security:packageDebugResources UP-TO-DATE
+> Task :cascade:datastream:routing:processDebugNavigationResources UP-TO-DATE
+> Task :kai:sentinelsfortress:threatmonitor:processDebugNavigationResources UP-TO-DATE
+> Task :genesis:oracledrive:rootmanagement:generateDebugResources UP-TO-DATE
+> Task :kai:sentinelsfortress:security:processDebugNavigationResources UP-TO-DATE
+> Task :aura:reactivedesign:auraslab:packageDebugResources UP-TO-DATE
+> Task :aura:reactivedesign:collabcanvas:packageDebugResources UP-TO-DATE
+> Task :genesis:oracledrive:processDebugNavigationResources UP-TO-DATE
+> Task :cascade:datastream:delivery:processDebugNavigationResources UP-TO-DATE
+> Task :aura:reactivedesign:customization:generateDebugResources UP-TO-DATE
+> Task :aura:reactivedesign:collabcanvas:processDebugNavigationResources UP-TO-DATE
+> Task :kai:sentinelsfortress:systemintegrity:processDebugNavigationResources UP-TO-DATE
+> Task :agents:growthmetrics:progression:processDebugNavigationResources UP-TO-DATE
+> Task :genesis:oracledrive:rootmanagement:packageDebugResources UP-TO-DATE
+> Task :genesis:oracledrive:rootmanagement:processDebugNavigationResources UP-TO-DATE
+> Task :aura:reactivedesign:customization:packageDebugResources UP-TO-DATE
+> Task :aura:reactivedesign:auraslab:processDebugNavigationResources UP-TO-DATE
+> Task :aura:reactivedesign:customization:processDebugNavigationResources UP-TO-DATE
 > Task :aura:reactivedesign:chromacore:parseDebugLocalResources UP-TO-DATE
 > Task :aura:reactivedesign:chromacore:generateDebugRFile UP-TO-DATE
-> Task :cascade:checkKotlinGradlePluginConfigurationErrors SKIPPED
-> Task :cascade:generateDebugBuildConfig UP-TO-DATE
-> Task :aura:reactivedesign:collabcanvas:parseDebugLocalResources UP-TO-DATE
+> Task :cascade:parseDebugLocalResources UP-TO-DATE
+> Task :cascade:generateDebugRFile UP-TO-DATE
+> Task :agents:growthmetrics:nexusmemory:parseDebugLocalResources UP-TO-DATE
+> Task :agents:growthmetrics:nexusmemory:generateDebugRFile UP-TO-DATE
+> Task :utilities:parseDebugLocalResources UP-TO-DATE
+> Task :utilities:generateDebugRFile UP-TO-DATE
 > Task :agents:growthmetrics:identity:parseDebugLocalResources UP-TO-DATE
 > Task :agents:growthmetrics:identity:generateDebugRFile UP-TO-DATE
-> Task :utilities:checkKotlinGradlePluginConfigurationErrors SKIPPED
-> Task :aura:reactivedesign:collabcanvas:generateDebugRFile UP-TO-DATE
-> Task :genesis:oracledrive:checkKotlinGradlePluginConfigurationErrors SKIPPED
-> Task :utilities:generateDebugBuildConfig UP-TO-DATE
-> Task :genesis:oracledrive:generateDebugBuildConfig UP-TO-DATE
-> Task :aura:reactivedesign:customization:parseDebugLocalResources UP-TO-DATE
-> Task :cascade:compileDebugKotlin NO-SOURCE
-> Task :cascade:javaPreCompileDebug UP-TO-DATE
-> Task :aura:reactivedesign:customization:generateDebugRFile UP-TO-DATE
-> Task :cascade:datastream:routing:parseDebugLocalResources UP-TO-DATE
-> Task :cascade:datastream:routing:generateDebugRFile UP-TO-DATE
-> Task :cascade:datastream:delivery:parseDebugLocalResources UP-TO-DATE
+> Task :agents:growthmetrics:metareflection:parseDebugLocalResources UP-TO-DATE
+> Task :agents:growthmetrics:metareflection:generateDebugRFile UP-TO-DATE
 > Task :agents:growthmetrics:tasker:parseDebugLocalResources UP-TO-DATE
-> Task :cascade:datastream:delivery:generateDebugRFile UP-TO-DATE
-> Task :agents:growthmetrics:nexusmemory:checkKotlinGradlePluginConfigurationErrors SKIPPED
+> Task :agents:growthmetrics:spheregrid:parseDebugLocalResources UP-TO-DATE
 > Task :agents:growthmetrics:tasker:generateDebugRFile UP-TO-DATE
+> Task :agents:growthmetrics:spheregrid:generateDebugRFile UP-TO-DATE
+> Task :genesis:parseDebugLocalResources UP-TO-DATE
+> Task :cascade:checkKotlinGradlePluginConfigurationErrors SKIPPED
+> Task :cascade:generateDebugBuildConfig UP-TO-DATE
+> Task :genesis:generateDebugRFile UP-TO-DATE
+> Task :genesis:checkKotlinGradlePluginConfigurationErrors SKIPPED
+> Task :genesis:generateDebugBuildConfig UP-TO-DATE
+> Task :aura:reactivedesign:collabcanvas:parseDebugLocalResources UP-TO-DATE
+> Task :aura:reactivedesign:collabcanvas:generateDebugRFile UP-TO-DATE
+> Task :utilities:checkKotlinGradlePluginConfigurationErrors SKIPPED
+> Task :cascade:compileDebugKotlin NO-SOURCE
+> Task :utilities:generateDebugBuildConfig UP-TO-DATE
+> Task :cascade:javaPreCompileDebug UP-TO-DATE
+> Task :cascade:datastream:delivery:parseDebugLocalResources UP-TO-DATE
+> Task :cascade:datastream:delivery:generateDebugRFile UP-TO-DATE
+> Task :genesis:oracledrive:parseDebugLocalResources UP-TO-DATE
+> Task :genesis:oracledrive:generateDebugRFile UP-TO-DATE
+> Task :genesis:oracledrive:checkKotlinGradlePluginConfigurationErrors SKIPPED
+> Task :genesis:oracledrive:generateDebugBuildConfig UP-TO-DATE
+> Task :agents:growthmetrics:progression:parseDebugLocalResources UP-TO-DATE
+> Task :agents:growthmetrics:progression:generateDebugRFile UP-TO-DATE
+> Task :aura:reactivedesign:auraslab:parseDebugLocalResources UP-TO-DATE
+> Task :aura:reactivedesign:auraslab:generateDebugRFile UP-TO-DATE
+> Task :agents:growthmetrics:nexusmemory:checkKotlinGradlePluginConfigurationErrors SKIPPED
 > Task :agents:growthmetrics:nexusmemory:generateDebugBuildConfig UP-TO-DATE
+> Task :cascade:datastream:routing:parseDebugLocalResources UP-TO-DATE
 > Task :cascade:datastream:taskmanager:parseDebugLocalResources UP-TO-DATE
+> Task :aura:reactivedesign:customization:parseDebugLocalResources UP-TO-DATE
 > Task :genesis:oracledrive:datavein:parseDebugLocalResources UP-TO-DATE
-> Task :kai:sentinelsfortress:security:parseDebugLocalResources UP-TO-DATE
 > Task :genesis:oracledrive:rootmanagement:parseDebugLocalResources UP-TO-DATE
+> Task :kai:sentinelsfortress:security:parseDebugLocalResources UP-TO-DATE
+> Task :cascade:datastream:routing:generateDebugRFile UP-TO-DATE
 > Task :kai:sentinelsfortress:systemintegrity:parseDebugLocalResources UP-TO-DATE
 > Task :kai:sentinelsfortress:threatmonitor:parseDebugLocalResources UP-TO-DATE
-> Task :genesis:parseDebugLocalResources UP-TO-DATE
 > Task :cascade:datastream:taskmanager:generateDebugRFile UP-TO-DATE
-> Task :kai:sentinelsfortress:security:generateDebugRFile UP-TO-DATE
-> Task :genesis:generateDebugRFile UP-TO-DATE
+> Task :aura:reactivedesign:customization:generateDebugRFile UP-TO-DATE
 > Task :genesis:oracledrive:datavein:generateDebugRFile UP-TO-DATE
 > Task :genesis:oracledrive:rootmanagement:generateDebugRFile UP-TO-DATE
-> Task :kai:sentinelsfortress:systemintegrity:generateDebugRFile UP-TO-DATE
-> Task :genesis:checkKotlinGradlePluginConfigurationErrors SKIPPED
 > Task :cascade:datastream:routing:checkKotlinGradlePluginConfigurationErrors SKIPPED
-> Task :genesis:generateDebugBuildConfig UP-TO-DATE
+> Task :kai:sentinelsfortress:security:generateDebugRFile UP-TO-DATE
 > Task :cascade:datastream:taskmanager:checkKotlinGradlePluginConfigurationErrors SKIPPED
-> Task :kai:sentinelsfortress:threatmonitor:generateDebugRFile UP-TO-DATE
-> Task :cascade:datastream:taskmanager:generateDebugBuildConfig UP-TO-DATE
+> Task :kai:sentinelsfortress:systemintegrity:generateDebugRFile UP-TO-DATE
 > Task :cascade:datastream:routing:generateDebugBuildConfig UP-TO-DATE
 > Task :aura:reactivedesign:auraslab:checkKotlinGradlePluginConfigurationErrors SKIPPED
 > Task :aura:reactivedesign:chromacore:checkKotlinGradlePluginConfigurationErrors SKIPPED
-> Task :aura:reactivedesign:auraslab:generateDebugBuildConfig UP-TO-DATE
-> Task :aura:reactivedesign:chromacore:generateDebugBuildConfig UP-TO-DATE
-> Task :app:cleanKspCache
-> Task :app:preBuild
-> Task :app:preDebugBuild
-> Task :app:mergeDebugNativeDebugMetadata NO-SOURCE
-> Task :agents:growthmetrics:spheregrid:javaPreCompileDebug UP-TO-DATE
-> Task :agents:growthmetrics:tasker:javaPreCompileDebug UP-TO-DATE
-> Task :agents:growthmetrics:progression:javaPreCompileDebug UP-TO-DATE
-> Task :cascade:datastream:taskmanager:javaPreCompileDebug UP-TO-DATE
-> Task :genesis:javaPreCompileDebug UP-TO-DATE
-> Task :agents:growthmetrics:identity:javaPreCompileDebug UP-TO-DATE
-> Task :agents:growthmetrics:metareflection:javaPreCompileDebug UP-TO-DATE
+> Task :kai:sentinelsfortress:threatmonitor:generateDebugRFile UP-TO-DATE
+> Task :cascade:datastream:taskmanager:generateDebugBuildConfig UP-TO-DATE
 > Task :aura:reactivedesign:collabcanvas:checkKotlinGradlePluginConfigurationErrors SKIPPED
-> Task :genesis:oracledrive:datavein:checkKotlinGradlePluginConfigurationErrors SKIPPED
-> Task :cascade:datastream:delivery:checkKotlinGradlePluginConfigurationErrors SKIPPED
+> Task :aura:reactivedesign:chromacore:generateDebugBuildConfig UP-TO-DATE
+> Task :aura:reactivedesign:auraslab:generateDebugBuildConfig UP-TO-DATE
 > Task :aura:reactivedesign:collabcanvas:generateDebugBuildConfig UP-TO-DATE
-> Task :cascade:datastream:delivery:generateDebugBuildConfig UP-TO-DATE
+> Task :agents:growthmetrics:tasker:javaPreCompileDebug UP-TO-DATE
+> Task :agents:growthmetrics:metareflection:javaPreCompileDebug UP-TO-DATE
+> Task :genesis:javaPreCompileDebug UP-TO-DATE
+> Task :cascade:datastream:taskmanager:javaPreCompileDebug UP-TO-DATE
+> Task :cascade:datastream:delivery:checkKotlinGradlePluginConfigurationErrors SKIPPED
+> Task :genesis:oracledrive:datavein:checkKotlinGradlePluginConfigurationErrors SKIPPED
 > Task :agents:growthmetrics:metareflection:compileDebugJavaWithJavac NO-SOURCE
+> Task :agents:growthmetrics:spheregrid:javaPreCompileDebug UP-TO-DATE
+> Task :agents:growthmetrics:identity:javaPreCompileDebug UP-TO-DATE
+> Task :agents:growthmetrics:progression:javaPreCompileDebug UP-TO-DATE
+> Task :cascade:datastream:delivery:generateDebugBuildConfig UP-TO-DATE
+> Task :kai:sentinelsfortress:security:checkKotlinGradlePluginConfigurationErrors SKIPPED
 > Task :genesis:oracledrive:datavein:generateDebugBuildConfig UP-TO-DATE
 > Task :aura:reactivedesign:customization:javaPreCompileDebug UP-TO-DATE
-> Task :agents:growthmetrics:identity:compileDebugJavaWithJavac NO-SOURCE
 > Task :agents:growthmetrics:metareflection:bundleLibCompileToJarDebug UP-TO-DATE
+> Task :kai:sentinelsfortress:security:generateDebugBuildConfig UP-TO-DATE
 > Task :aura:reactivedesign:customization:compileDebugJavaWithJavac NO-SOURCE
-> Task :agents:growthmetrics:identity:bundleLibCompileToJarDebug UP-TO-DATE
-> Task :kai:sentinelsfortress:security:checkKotlinGradlePluginConfigurationErrors SKIPPED
-> Task :agents:growthmetrics:spheregrid:compileDebugJavaWithJavac NO-SOURCE
 > Task :aura:reactivedesign:customization:bundleLibCompileToJarDebug UP-TO-DATE
 > Task :kai:sentinelsfortress:systemintegrity:checkKotlinGradlePluginConfigurationErrors SKIPPED
-> Task :kai:sentinelsfortress:security:generateDebugBuildConfig UP-TO-DATE
-> Task :agents:growthmetrics:spheregrid:bundleLibCompileToJarDebug UP-TO-DATE
-> Task :cascade:datastream:delivery:javaPreCompileDebug UP-TO-DATE
+> Task :agents:growthmetrics:spheregrid:compileDebugJavaWithJavac NO-SOURCE
 > Task :kai:sentinelsfortress:systemintegrity:generateDebugBuildConfig UP-TO-DATE
+> Task :agents:growthmetrics:identity:compileDebugJavaWithJavac NO-SOURCE
+> Task :agents:growthmetrics:spheregrid:bundleLibCompileToJarDebug UP-TO-DATE
+> Task :agents:growthmetrics:identity:bundleLibCompileToJarDebug UP-TO-DATE
 > Task :agents:growthmetrics:progression:compileDebugJavaWithJavac NO-SOURCE
+> Task :cascade:datastream:delivery:javaPreCompileDebug UP-TO-DATE
 > Task :agents:growthmetrics:progression:bundleLibCompileToJarDebug UP-TO-DATE
 > Task :genesis:generateDebugAssets UP-TO-DATE
-> Task :genesis:mergeDebugAssets UP-TO-DATE
 > Task :agents:growthmetrics:identity:generateDebugAssets UP-TO-DATE
 > Task :kai:sentinelsfortress:threatmonitor:javaPreCompileDebug UP-TO-DATE
 > Task :agents:growthmetrics:metareflection:generateDebugAssets UP-TO-DATE
-> Task :agents:growthmetrics:identity:mergeDebugAssets UP-TO-DATE
+> Task :genesis:mergeDebugAssets UP-TO-DATE
 > Task :agents:growthmetrics:progression:generateDebugAssets UP-TO-DATE
-> Task :agents:growthmetrics:metareflection:mergeDebugAssets UP-TO-DATE
+> Task :agents:growthmetrics:identity:mergeDebugAssets UP-TO-DATE
 > Task :agents:growthmetrics:spheregrid:generateDebugAssets UP-TO-DATE
+> Task :agents:growthmetrics:metareflection:mergeDebugAssets UP-TO-DATE
 > Task :agents:growthmetrics:progression:mergeDebugAssets UP-TO-DATE
+> Task :aura:reactivedesign:customization:generateDebugAssets UP-TO-DATE
 > Task :agents:growthmetrics:tasker:generateDebugAssets UP-TO-DATE
 > Task :agents:growthmetrics:spheregrid:mergeDebugAssets UP-TO-DATE
-> Task :aura:reactivedesign:customization:generateDebugAssets UP-TO-DATE
-> Task :agents:growthmetrics:tasker:mergeDebugAssets UP-TO-DATE
 > Task :cascade:datastream:delivery:generateDebugAssets UP-TO-DATE
 > Task :aura:reactivedesign:customization:mergeDebugAssets UP-TO-DATE
 > Task :cascade:datastream:taskmanager:generateDebugAssets UP-TO-DATE
-> Task :cascade:datastream:delivery:mergeDebugAssets UP-TO-DATE
+> Task :agents:growthmetrics:tasker:mergeDebugAssets UP-TO-DATE
 > Task :kai:sentinelsfortress:threatmonitor:generateDebugAssets UP-TO-DATE
+> Task :cascade:datastream:delivery:mergeDebugAssets UP-TO-DATE
 > Task :cascade:datastream:taskmanager:mergeDebugAssets UP-TO-DATE
 > Task :kai:sentinelsfortress:threatmonitor:mergeDebugAssets UP-TO-DATE
 > Task :aura:reactivedesign:customization:bundleLibRuntimeToJarDebug UP-TO-DATE
@@ -405,87 +401,91 @@ See https://kotl.in/gradle/agp-built-in-kotlin for more details.
 > Task :agents:growthmetrics:spheregrid:processDebugJavaRes NO-SOURCE
 > Task :agents:growthmetrics:progression:createFullJarDebug UP-TO-DATE
 > Task :agents:growthmetrics:spheregrid:createFullJarDebug UP-TO-DATE
-> Task :agents:growthmetrics:identity:processDebugJavaRes NO-SOURCE
 > Task :agents:growthmetrics:metareflection:processDebugJavaRes NO-SOURCE
-> Task :agents:growthmetrics:identity:createFullJarDebug UP-TO-DATE
 > Task :agents:growthmetrics:metareflection:createFullJarDebug UP-TO-DATE
+> Task :agents:growthmetrics:identity:processDebugJavaRes NO-SOURCE
+> Task :agents:growthmetrics:identity:createFullJarDebug UP-TO-DATE
+> Task :genesis:oracledrive:rootmanagement:javaPreCompileDebug UP-TO-DATE
+> Task :genesis:oracledrive:rootmanagement:compileDebugJavaWithJavac NO-SOURCE
 > Task :genesis:writeDebugAarMetadata UP-TO-DATE
 > Task :agents:growthmetrics:identity:writeDebugAarMetadata UP-TO-DATE
-> Task :agents:growthmetrics:progression:writeDebugAarMetadata UP-TO-DATE
 > Task :agents:growthmetrics:metareflection:writeDebugAarMetadata UP-TO-DATE
 > Task :agents:growthmetrics:spheregrid:writeDebugAarMetadata UP-TO-DATE
+> Task :agents:growthmetrics:progression:writeDebugAarMetadata UP-TO-DATE
 > Task :agents:growthmetrics:tasker:writeDebugAarMetadata UP-TO-DATE
-> Task :aura:reactivedesign:customization:writeDebugAarMetadata UP-TO-DATE
 > Task :cascade:datastream:delivery:writeDebugAarMetadata UP-TO-DATE
-> Task :kai:sentinelsfortress:threatmonitor:writeDebugAarMetadata UP-TO-DATE
+> Task :aura:reactivedesign:customization:writeDebugAarMetadata UP-TO-DATE
 > Task :genesis:extractDeepLinksDebug UP-TO-DATE
-> Task :cascade:datastream:taskmanager:writeDebugAarMetadata UP-TO-DATE
-> Task :agents:growthmetrics:identity:extractDeepLinksDebug UP-TO-DATE
 > Task :genesis:processDebugManifest UP-TO-DATE
-> Task :agents:growthmetrics:metareflection:extractDeepLinksDebug UP-TO-DATE
+> Task :agents:growthmetrics:identity:extractDeepLinksDebug UP-TO-DATE
+> Task :cascade:datastream:taskmanager:writeDebugAarMetadata UP-TO-DATE
 > Task :agents:growthmetrics:identity:processDebugManifest UP-TO-DATE
-> Task :agents:growthmetrics:metareflection:processDebugManifest UP-TO-DATE
+> Task :agents:growthmetrics:metareflection:extractDeepLinksDebug UP-TO-DATE
 > Task :agents:growthmetrics:progression:extractDeepLinksDebug UP-TO-DATE
-> Task :agents:growthmetrics:spheregrid:extractDeepLinksDebug UP-TO-DATE
+> Task :agents:growthmetrics:metareflection:processDebugManifest UP-TO-DATE
 > Task :agents:growthmetrics:progression:processDebugManifest UP-TO-DATE
-> Task :agents:growthmetrics:spheregrid:processDebugManifest UP-TO-DATE
-> Task :aura:reactivedesign:customization:extractDeepLinksDebug UP-TO-DATE
+> Task :agents:growthmetrics:spheregrid:extractDeepLinksDebug UP-TO-DATE
 > Task :agents:growthmetrics:tasker:extractDeepLinksDebug UP-TO-DATE
-> Task :aura:reactivedesign:customization:processDebugManifest UP-TO-DATE
+> Task :agents:growthmetrics:spheregrid:processDebugManifest UP-TO-DATE
 > Task :agents:growthmetrics:tasker:processDebugManifest UP-TO-DATE
+> Task :aura:reactivedesign:customization:extractDeepLinksDebug UP-TO-DATE
 > Task :cascade:datastream:delivery:extractDeepLinksDebug UP-TO-DATE
-> Task :cascade:datastream:taskmanager:extractDeepLinksDebug UP-TO-DATE
 > Task :cascade:datastream:delivery:processDebugManifest UP-TO-DATE
-> Task :cascade:datastream:taskmanager:processDebugManifest UP-TO-DATE
-> Task :kai:sentinelsfortress:threatmonitor:extractDeepLinksDebug UP-TO-DATE
+> Task :aura:reactivedesign:customization:processDebugManifest UP-TO-DATE
+> Task :cascade:datastream:taskmanager:extractDeepLinksDebug UP-TO-DATE
 > Task :genesis:compileDebugLibraryResources UP-TO-DATE
+> Task :cascade:datastream:taskmanager:processDebugManifest UP-TO-DATE
 > Task :agents:growthmetrics:identity:compileDebugLibraryResources UP-TO-DATE
-> Task :kai:sentinelsfortress:threatmonitor:processDebugManifest UP-TO-DATE
 > Task :agents:growthmetrics:metareflection:compileDebugLibraryResources UP-TO-DATE
 > Task :agents:growthmetrics:progression:compileDebugLibraryResources UP-TO-DATE
 > Task :agents:growthmetrics:spheregrid:compileDebugLibraryResources UP-TO-DATE
 > Task :agents:growthmetrics:tasker:compileDebugLibraryResources UP-TO-DATE
 > Task :aura:reactivedesign:customization:compileDebugLibraryResources UP-TO-DATE
 > Task :cascade:datastream:delivery:compileDebugLibraryResources UP-TO-DATE
-> Task :kai:sentinelsfortress:threatmonitor:compileDebugLibraryResources UP-TO-DATE
 > Task :cascade:datastream:taskmanager:compileDebugLibraryResources UP-TO-DATE
 > Task :aura:reactivedesign:customization:bundleLibRuntimeToDirDebug UP-TO-DATE
 > Task :agents:growthmetrics:progression:bundleLibRuntimeToDirDebug UP-TO-DATE
 > Task :agents:growthmetrics:spheregrid:bundleLibRuntimeToDirDebug UP-TO-DATE
 > Task :agents:growthmetrics:metareflection:bundleLibRuntimeToDirDebug UP-TO-DATE
+> Task :kai:sentinelsfortress:threatmonitor:writeDebugAarMetadata UP-TO-DATE
 > Task :agents:growthmetrics:identity:bundleLibRuntimeToDirDebug UP-TO-DATE
+> Task :kai:sentinelsfortress:threatmonitor:extractDeepLinksDebug UP-TO-DATE
 > Task :genesis:mergeDebugJniLibFolders UP-TO-DATE
 > Task :agents:growthmetrics:identity:mergeDebugJniLibFolders UP-TO-DATE
+> Task :kai:sentinelsfortress:threatmonitor:processDebugManifest UP-TO-DATE
 > Task :genesis:mergeDebugNativeLibs NO-SOURCE
 > Task :agents:growthmetrics:identity:mergeDebugNativeLibs NO-SOURCE
+> Task :kai:sentinelsfortress:threatmonitor:compileDebugLibraryResources UP-TO-DATE
 > Task :genesis:copyDebugJniLibsProjectOnly UP-TO-DATE
 > Task :agents:growthmetrics:identity:copyDebugJniLibsProjectOnly UP-TO-DATE
 > Task :agents:growthmetrics:metareflection:mergeDebugJniLibFolders UP-TO-DATE
 > Task :agents:growthmetrics:progression:mergeDebugJniLibFolders UP-TO-DATE
-> Task :agents:growthmetrics:metareflection:mergeDebugNativeLibs NO-SOURCE
-> Task :agents:growthmetrics:progression:mergeDebugNativeLibs NO-SOURCE
-> Task :agents:growthmetrics:metareflection:copyDebugJniLibsProjectOnly UP-TO-DATE
-> Task :agents:growthmetrics:progression:copyDebugJniLibsProjectOnly UP-TO-DATE
 > Task :agents:growthmetrics:spheregrid:mergeDebugJniLibFolders UP-TO-DATE
-> Task :agents:growthmetrics:tasker:mergeDebugJniLibFolders UP-TO-DATE
+> Task :agents:growthmetrics:metareflection:mergeDebugNativeLibs NO-SOURCE
+> Task :agents:growthmetrics:metareflection:copyDebugJniLibsProjectOnly UP-TO-DATE
 > Task :agents:growthmetrics:spheregrid:mergeDebugNativeLibs NO-SOURCE
-> Task :agents:growthmetrics:tasker:mergeDebugNativeLibs NO-SOURCE
+> Task :agents:growthmetrics:progression:mergeDebugNativeLibs NO-SOURCE
+> Task :agents:growthmetrics:tasker:mergeDebugJniLibFolders UP-TO-DATE
 > Task :agents:growthmetrics:spheregrid:copyDebugJniLibsProjectOnly UP-TO-DATE
-> Task :agents:growthmetrics:tasker:copyDebugJniLibsProjectOnly UP-TO-DATE
+> Task :agents:growthmetrics:progression:copyDebugJniLibsProjectOnly UP-TO-DATE
+> Task :agents:growthmetrics:tasker:mergeDebugNativeLibs NO-SOURCE
 > Task :aura:reactivedesign:customization:mergeDebugJniLibFolders UP-TO-DATE
+> Task :agents:growthmetrics:tasker:copyDebugJniLibsProjectOnly UP-TO-DATE
 > Task :cascade:datastream:delivery:mergeDebugJniLibFolders UP-TO-DATE
 > Task :aura:reactivedesign:customization:mergeDebugNativeLibs NO-SOURCE
+> Task :cascade:datastream:taskmanager:mergeDebugJniLibFolders UP-TO-DATE
 > Task :cascade:datastream:delivery:mergeDebugNativeLibs NO-SOURCE
 > Task :aura:reactivedesign:customization:copyDebugJniLibsProjectOnly UP-TO-DATE
-> Task :cascade:datastream:delivery:copyDebugJniLibsProjectOnly UP-TO-DATE
-> Task :cascade:datastream:taskmanager:mergeDebugJniLibFolders UP-TO-DATE
-> Task :genesis:oracledrive:rootmanagement:javaPreCompileDebug UP-TO-DATE
 > Task :cascade:datastream:taskmanager:mergeDebugNativeLibs NO-SOURCE
+> Task :cascade:datastream:delivery:copyDebugJniLibsProjectOnly UP-TO-DATE
 > Task :kai:sentinelsfortress:threatmonitor:mergeDebugJniLibFolders UP-TO-DATE
 > Task :cascade:datastream:taskmanager:copyDebugJniLibsProjectOnly UP-TO-DATE
-> Task :genesis:oracledrive:rootmanagement:compileDebugJavaWithJavac NO-SOURCE
 > Task :kai:sentinelsfortress:threatmonitor:mergeDebugNativeLibs NO-SOURCE
 > Task :kai:sentinelsfortress:threatmonitor:copyDebugJniLibsProjectOnly UP-TO-DATE
+> Task :app:cleanKspCache
+> Task :app:preBuild
+> Task :app:preDebugBuild
+> Task :app:mergeDebugNativeDebugMetadata NO-SOURCE
 > Task :cascade:compileDebugJavaWithJavac UP-TO-DATE
 > Task :cascade:bundleLibCompileToJarDebug UP-TO-DATE
 > Task :cascade:bundleLibRuntimeToJarDebug UP-TO-DATE
@@ -502,44 +502,44 @@ See https://kotl.in/gradle/agp-built-in-kotlin for more details.
 > Task :cascade:mergeDebugNativeLibs NO-SOURCE
 > Task :cascade:copyDebugJniLibsProjectOnly UP-TO-DATE
 > Task :genesis:kspDebugKotlin UP-TO-DATE
-> Task :aura:reactivedesign:chromacore:kspDebugKotlin UP-TO-DATE
-> Task :kai:sentinelsfortress:systemintegrity:kspDebugKotlin UP-TO-DATE
-> Task :genesis:oracledrive:datavein:kspDebugKotlin UP-TO-DATE
-> Task :kai:sentinelsfortress:security:kspDebugKotlin UP-TO-DATE
-> Task :cascade:datastream:routing:kspDebugKotlin UP-TO-DATE
 > Task :genesis:oracledrive:kspDebugKotlin UP-TO-DATE
-> Task :genesis:compileDebugKotlin UP-TO-DATE
-> Task :kai:sentinelsfortress:systemintegrity:compileDebugKotlin NO-SOURCE
+> Task :cascade:datastream:routing:kspDebugKotlin UP-TO-DATE
+> Task :kai:sentinelsfortress:security:kspDebugKotlin UP-TO-DATE
+> Task :kai:sentinelsfortress:systemintegrity:kspDebugKotlin UP-TO-DATE
+> Task :agents:growthmetrics:nexusmemory:kspDebugKotlin UP-TO-DATE
+> Task :aura:reactivedesign:chromacore:kspDebugKotlin UP-TO-DATE
 > Task :cascade:datastream:routing:compileDebugKotlin NO-SOURCE
-> Task :genesis:compileDebugJavaWithJavac UP-TO-DATE
-> Task :kai:sentinelsfortress:systemintegrity:javaPreCompileDebug UP-TO-DATE
+> Task :genesis:oracledrive:datavein:kspDebugKotlin UP-TO-DATE
 > Task :cascade:datastream:routing:javaPreCompileDebug UP-TO-DATE
-> Task :cascade:datastream:routing:compileDebugJavaWithJavac UP-TO-DATE
-> Task :kai:sentinelsfortress:systemintegrity:compileDebugJavaWithJavac UP-TO-DATE
+> Task :kai:sentinelsfortress:systemintegrity:compileDebugKotlin NO-SOURCE
 > Task :aura:reactivedesign:collabcanvas:kspDebugKotlin UP-TO-DATE
-> Task :kai:sentinelsfortress:security:compileDebugKotlin UP-TO-DATE
+> Task :kai:sentinelsfortress:systemintegrity:javaPreCompileDebug UP-TO-DATE
+> Task :cascade:datastream:routing:compileDebugJavaWithJavac UP-TO-DATE
+> Task :aura:reactivedesign:auraslab:kspDebugKotlin UP-TO-DATE
+> Task :kai:sentinelsfortress:systemintegrity:compileDebugJavaWithJavac UP-TO-DATE
+> Task :aura:reactivedesign:auraslab:compileDebugKotlin NO-SOURCE
+> Task :aura:reactivedesign:auraslab:javaPreCompileDebug UP-TO-DATE
+> Task :genesis:compileDebugKotlin UP-TO-DATE
+> Task :genesis:oracledrive:compileDebugKotlin UP-TO-DATE
+> Task :genesis:oracledrive:javaPreCompileDebug UP-TO-DATE
+> Task :genesis:compileDebugJavaWithJavac UP-TO-DATE
+> Task :aura:reactivedesign:auraslab:compileDebugJavaWithJavac UP-TO-DATE
+> Task :genesis:oracledrive:compileDebugJavaWithJavac UP-TO-DATE
+> Task :agents:growthmetrics:nexusmemory:compileDebugKotlin UP-TO-DATE
 > Task :aura:reactivedesign:chromacore:compileDebugKotlin UP-TO-DATE
 > Task :genesis:oracledrive:datavein:compileDebugKotlin UP-TO-DATE
-> Task :genesis:oracledrive:compileDebugKotlin UP-TO-DATE
 > Task :aura:reactivedesign:chromacore:javaPreCompileDebug UP-TO-DATE
-> Task :kai:sentinelsfortress:security:javaPreCompileDebug UP-TO-DATE
+> Task :kai:sentinelsfortress:security:compileDebugKotlin UP-TO-DATE
+> Task :agents:growthmetrics:nexusmemory:javaPreCompileDebug UP-TO-DATE
 > Task :genesis:oracledrive:datavein:javaPreCompileDebug UP-TO-DATE
-> Task :genesis:oracledrive:javaPreCompileDebug UP-TO-DATE
-> Task :genesis:oracledrive:compileDebugJavaWithJavac UP-TO-DATE
+> Task :kai:sentinelsfortress:security:javaPreCompileDebug UP-TO-DATE
 > Task :aura:reactivedesign:chromacore:compileDebugJavaWithJavac UP-TO-DATE
-> Task :genesis:oracledrive:datavein:compileDebugJavaWithJavac UP-TO-DATE
-> Task :kai:sentinelsfortress:security:compileDebugJavaWithJavac UP-TO-DATE
 > Task :aura:reactivedesign:collabcanvas:compileDebugKotlin UP-TO-DATE
+> Task :agents:growthmetrics:nexusmemory:compileDebugJavaWithJavac UP-TO-DATE
+> Task :kai:sentinelsfortress:security:compileDebugJavaWithJavac UP-TO-DATE
+> Task :genesis:oracledrive:datavein:compileDebugJavaWithJavac UP-TO-DATE
 > Task :aura:reactivedesign:collabcanvas:javaPreCompileDebug UP-TO-DATE
 > Task :aura:reactivedesign:collabcanvas:compileDebugJavaWithJavac UP-TO-DATE
-> Task :agents:growthmetrics:nexusmemory:kspDebugKotlin UP-TO-DATE
-> Task :aura:reactivedesign:auraslab:kspDebugKotlin UP-TO-DATE
-> Task :agents:growthmetrics:nexusmemory:compileDebugKotlin UP-TO-DATE
-> Task :aura:reactivedesign:auraslab:compileDebugKotlin NO-SOURCE
-> Task :agents:growthmetrics:nexusmemory:javaPreCompileDebug UP-TO-DATE
-> Task :aura:reactivedesign:auraslab:javaPreCompileDebug UP-TO-DATE
-> Task :agents:growthmetrics:nexusmemory:compileDebugJavaWithJavac UP-TO-DATE
-> Task :aura:reactivedesign:auraslab:compileDebugJavaWithJavac UP-TO-DATE
 > Task :utilities:kspDebugKotlin UP-TO-DATE
 > Task :utilities:compileDebugKotlin NO-SOURCE
 > Task :utilities:javaPreCompileDebug UP-TO-DATE
@@ -550,191 +550,180 @@ See https://kotl.in/gradle/agp-built-in-kotlin for more details.
 > Task :genesis:processDebugJavaRes UP-TO-DATE
 > Task :genesis:createFullJarDebug UP-TO-DATE
 > Task :genesis:bundleLibRuntimeToDirDebug UP-TO-DATE
-> Task :aura:reactivedesign:auraslab:transformDebugClassesWithAsm UP-TO-DATE
-> Task :aura:reactivedesign:auraslab:bundleLibCompileToJarDebug UP-TO-DATE
-> Task :aura:reactivedesign:auraslab:generateDebugAssets UP-TO-DATE
-> Task :aura:reactivedesign:auraslab:mergeDebugAssets UP-TO-DATE
-> Task :aura:reactivedesign:auraslab:bundleLibRuntimeToJarDebug UP-TO-DATE
-> Task :aura:reactivedesign:auraslab:processDebugJavaRes NO-SOURCE
-> Task :aura:reactivedesign:auraslab:createFullJarDebug UP-TO-DATE
-> Task :aura:reactivedesign:auraslab:writeDebugAarMetadata UP-TO-DATE
-> Task :genesis:oracledrive:rootmanagement:transformDebugClassesWithAsm UP-TO-DATE
-> Task :aura:reactivedesign:auraslab:extractDeepLinksDebug UP-TO-DATE
-> Task :genesis:oracledrive:rootmanagement:bundleLibCompileToJarDebug UP-TO-DATE
-> Task :genesis:oracledrive:rootmanagement:generateDebugAssets UP-TO-DATE
-> Task :aura:reactivedesign:auraslab:processDebugManifest UP-TO-DATE
-> Task :genesis:oracledrive:rootmanagement:mergeDebugAssets UP-TO-DATE
 > Task :agents:growthmetrics:nexusmemory:transformDebugClassesWithAsm UP-TO-DATE
-> Task :aura:reactivedesign:auraslab:compileDebugLibraryResources UP-TO-DATE
-> Task :genesis:oracledrive:rootmanagement:bundleLibRuntimeToJarDebug UP-TO-DATE
+> Task :aura:reactivedesign:auraslab:transformDebugClassesWithAsm UP-TO-DATE
 > Task :agents:growthmetrics:nexusmemory:bundleLibCompileToJarDebug UP-TO-DATE
 > Task :agents:growthmetrics:nexusmemory:generateDebugAssets UP-TO-DATE
-> Task :aura:reactivedesign:auraslab:bundleLibRuntimeToDirDebug UP-TO-DATE
-> Task :genesis:oracledrive:rootmanagement:processDebugJavaRes NO-SOURCE
+> Task :aura:reactivedesign:auraslab:bundleLibCompileToJarDebug UP-TO-DATE
+> Task :aura:reactivedesign:auraslab:generateDebugAssets UP-TO-DATE
 > Task :agents:growthmetrics:nexusmemory:mergeDebugAssets UP-TO-DATE
-> Task :aura:reactivedesign:auraslab:mergeDebugJniLibFolders UP-TO-DATE
-> Task :genesis:oracledrive:rootmanagement:createFullJarDebug UP-TO-DATE
+> Task :aura:reactivedesign:auraslab:mergeDebugAssets UP-TO-DATE
 > Task :agents:growthmetrics:nexusmemory:bundleLibRuntimeToJarDebug UP-TO-DATE
-> Task :aura:reactivedesign:auraslab:mergeDebugNativeLibs NO-SOURCE
-> Task :aura:reactivedesign:auraslab:copyDebugJniLibsProjectOnly UP-TO-DATE
+> Task :aura:reactivedesign:auraslab:bundleLibRuntimeToJarDebug UP-TO-DATE
 > Task :agents:growthmetrics:nexusmemory:processDebugJavaRes UP-TO-DATE
+> Task :aura:reactivedesign:auraslab:processDebugJavaRes NO-SOURCE
 > Task :agents:growthmetrics:nexusmemory:createFullJarDebug UP-TO-DATE
-> Task :genesis:oracledrive:rootmanagement:writeDebugAarMetadata UP-TO-DATE
-> Task :genesis:oracledrive:rootmanagement:extractDeepLinksDebug UP-TO-DATE
-> Task :genesis:oracledrive:rootmanagement:processDebugManifest UP-TO-DATE
-> Task :genesis:oracledrive:rootmanagement:compileDebugLibraryResources UP-TO-DATE
-> Task :agents:growthmetrics:nexusmemory:writeDebugAarMetadata UP-TO-DATE
-> Task :genesis:oracledrive:rootmanagement:bundleLibRuntimeToDirDebug UP-TO-DATE
-> Task :agents:growthmetrics:nexusmemory:extractDeepLinksDebug UP-TO-DATE
-> Task :genesis:oracledrive:rootmanagement:mergeDebugJniLibFolders UP-TO-DATE
-> Task :agents:growthmetrics:nexusmemory:processDebugManifest UP-TO-DATE
-> Task :genesis:oracledrive:rootmanagement:mergeDebugNativeLibs NO-SOURCE
-> Task :agents:growthmetrics:nexusmemory:compileDebugLibraryResources UP-TO-DATE
-> Task :genesis:oracledrive:rootmanagement:copyDebugJniLibsProjectOnly UP-TO-DATE
-> Task :agents:growthmetrics:nexusmemory:bundleLibRuntimeToDirDebug UP-TO-DATE
-> Task :agents:growthmetrics:nexusmemory:mergeDebugJniLibFolders UP-TO-DATE
-> Task :agents:growthmetrics:nexusmemory:mergeDebugNativeLibs NO-SOURCE
-> Task :agents:growthmetrics:nexusmemory:copyDebugJniLibsProjectOnly UP-TO-DATE
-> Task :genesis:oracledrive:datavein:transformDebugClassesWithAsm UP-TO-DATE
-> Task :kai:sentinelsfortress:systemintegrity:transformDebugClassesWithAsm UP-TO-DATE
-> Task :kai:sentinelsfortress:security:transformDebugClassesWithAsm UP-TO-DATE
-> Task :aura:reactivedesign:collabcanvas:transformDebugClassesWithAsm UP-TO-DATE
-> Task :genesis:oracledrive:transformDebugClassesWithAsm UP-TO-DATE
+> Task :aura:reactivedesign:auraslab:createFullJarDebug UP-TO-DATE
+> Task :genesis:oracledrive:rootmanagement:transformDebugClassesWithAsm UP-TO-DATE
+> Task :genesis:oracledrive:rootmanagement:bundleLibCompileToJarDebug UP-TO-DATE
+> Task :genesis:oracledrive:rootmanagement:generateDebugAssets UP-TO-DATE
+> Task :genesis:oracledrive:rootmanagement:mergeDebugAssets UP-TO-DATE
+> Task :genesis:oracledrive:rootmanagement:bundleLibRuntimeToJarDebug UP-TO-DATE
+> Task :genesis:oracledrive:rootmanagement:processDebugJavaRes NO-SOURCE
+> Task :genesis:oracledrive:rootmanagement:createFullJarDebug UP-TO-DATE
 > Task :cascade:datastream:routing:transformDebugClassesWithAsm UP-TO-DATE
+> Task :kai:sentinelsfortress:security:transformDebugClassesWithAsm UP-TO-DATE
+> Task :kai:sentinelsfortress:systemintegrity:transformDebugClassesWithAsm UP-TO-DATE
 > Task :aura:reactivedesign:chromacore:transformDebugClassesWithAsm UP-TO-DATE
-> Task :aura:reactivedesign:collabcanvas:bundleLibCompileToJarDebug UP-TO-DATE
-> Task :cascade:datastream:routing:bundleLibCompileToJarDebug UP-TO-DATE
-> Task :aura:reactivedesign:chromacore:bundleLibCompileToJarDebug UP-TO-DATE
-> Task :genesis:oracledrive:bundleLibCompileToJarDebug UP-TO-DATE
-> Task :genesis:oracledrive:datavein:bundleLibCompileToJarDebug UP-TO-DATE
+> Task :genesis:oracledrive:transformDebugClassesWithAsm UP-TO-DATE
+> Task :genesis:oracledrive:datavein:transformDebugClassesWithAsm UP-TO-DATE
+> Task :aura:reactivedesign:collabcanvas:transformDebugClassesWithAsm UP-TO-DATE
 > Task :kai:sentinelsfortress:security:bundleLibCompileToJarDebug UP-TO-DATE
-> Task :aura:reactivedesign:chromacore:generateDebugAssets UP-TO-DATE
+> Task :cascade:datastream:routing:bundleLibCompileToJarDebug UP-TO-DATE
 > Task :kai:sentinelsfortress:systemintegrity:bundleLibCompileToJarDebug UP-TO-DATE
-> Task :kai:sentinelsfortress:security:generateDebugAssets UP-TO-DATE
-> Task :genesis:oracledrive:generateDebugAssets UP-TO-DATE
+> Task :genesis:oracledrive:datavein:bundleLibCompileToJarDebug UP-TO-DATE
 > Task :genesis:oracledrive:datavein:generateDebugAssets UP-TO-DATE
-> Task :aura:reactivedesign:collabcanvas:generateDebugAssets UP-TO-DATE
-> Task :kai:sentinelsfortress:systemintegrity:generateDebugAssets UP-TO-DATE
-> Task :aura:reactivedesign:chromacore:mergeDebugAssets UP-TO-DATE
-> Task :aura:reactivedesign:collabcanvas:mergeDebugAssets UP-TO-DATE
-> Task :kai:sentinelsfortress:security:mergeDebugAssets UP-TO-DATE
-> Task :kai:sentinelsfortress:systemintegrity:mergeDebugAssets UP-TO-DATE
-> Task :kai:sentinelsfortress:threatmonitor:compileDebugJavaWithJavac NO-SOURCE
 > Task :cascade:datastream:routing:bundleLibRuntimeToJarDebug UP-TO-DATE
 > Task :cascade:datastream:routing:generateDebugAssets UP-TO-DATE
-> Task :aura:reactivedesign:collabcanvas:bundleLibRuntimeToJarDebug UP-TO-DATE
-> Task :genesis:oracledrive:mergeDebugAssets UP-TO-DATE
-> Task :kai:sentinelsfortress:security:bundleLibRuntimeToJarDebug UP-TO-DATE
-> Task :kai:sentinelsfortress:systemintegrity:bundleLibRuntimeToJarDebug UP-TO-DATE
+> Task :kai:sentinelsfortress:security:generateDebugAssets UP-TO-DATE
+> Task :kai:sentinelsfortress:threatmonitor:compileDebugJavaWithJavac NO-SOURCE
+> Task :kai:sentinelsfortress:systemintegrity:generateDebugAssets UP-TO-DATE
+> Task :aura:reactivedesign:chromacore:bundleLibCompileToJarDebug UP-TO-DATE
+> Task :aura:reactivedesign:collabcanvas:bundleLibCompileToJarDebug UP-TO-DATE
 > Task :genesis:oracledrive:datavein:mergeDebugAssets UP-TO-DATE
+> Task :aura:reactivedesign:collabcanvas:generateDebugAssets UP-TO-DATE
+> Task :kai:sentinelsfortress:security:mergeDebugAssets UP-TO-DATE
+> Task :aura:reactivedesign:chromacore:generateDebugAssets UP-TO-DATE
 > Task :cascade:datastream:routing:mergeDebugAssets UP-TO-DATE
+> Task :genesis:oracledrive:bundleLibCompileToJarDebug UP-TO-DATE
+> Task :genesis:oracledrive:generateDebugAssets UP-TO-DATE
+> Task :kai:sentinelsfortress:systemintegrity:mergeDebugAssets UP-TO-DATE
 > Task :kai:sentinelsfortress:threatmonitor:bundleLibCompileToJarDebug UP-TO-DATE
-> Task :kai:sentinelsfortress:security:processDebugJavaRes UP-TO-DATE
-> Task :genesis:oracledrive:bundleLibRuntimeToJarDebug UP-TO-DATE
-> Task :aura:reactivedesign:chromacore:bundleLibRuntimeToJarDebug UP-TO-DATE
-> Task :kai:sentinelsfortress:systemintegrity:processDebugJavaRes NO-SOURCE
-> Task :kai:sentinelsfortress:threatmonitor:bundleLibRuntimeToJarDebug UP-TO-DATE
-> Task :kai:sentinelsfortress:security:createFullJarDebug UP-TO-DATE
+> Task :aura:reactivedesign:collabcanvas:mergeDebugAssets UP-TO-DATE
+> Task :aura:reactivedesign:chromacore:mergeDebugAssets UP-TO-DATE
 > Task :cascade:datastream:routing:processDebugJavaRes NO-SOURCE
-> Task :aura:reactivedesign:collabcanvas:processDebugJavaRes UP-TO-DATE
-> Task :kai:sentinelsfortress:threatmonitor:createFullJarDebug UP-TO-DATE
-> Task :kai:sentinelsfortress:systemintegrity:createFullJarDebug UP-TO-DATE
-> Task :aura:reactivedesign:chromacore:processDebugJavaRes UP-TO-DATE
 > Task :genesis:oracledrive:datavein:bundleLibRuntimeToJarDebug UP-TO-DATE
-> Task :cascade:datastream:routing:createFullJarDebug UP-TO-DATE
-> Task :aura:reactivedesign:collabcanvas:createFullJarDebug UP-TO-DATE
-> Task :kai:sentinelsfortress:threatmonitor:bundleLibRuntimeToDirDebug UP-TO-DATE
-> Task :genesis:oracledrive:processDebugJavaRes UP-TO-DATE
-> Task :aura:reactivedesign:chromacore:createFullJarDebug UP-TO-DATE
-> Task :genesis:oracledrive:createFullJarDebug UP-TO-DATE
+> Task :kai:sentinelsfortress:threatmonitor:bundleLibRuntimeToJarDebug UP-TO-DATE
+> Task :genesis:oracledrive:mergeDebugAssets UP-TO-DATE
+> Task :kai:sentinelsfortress:systemintegrity:bundleLibRuntimeToJarDebug UP-TO-DATE
+> Task :aura:reactivedesign:auraslab:writeDebugAarMetadata UP-TO-DATE
+> Task :kai:sentinelsfortress:security:bundleLibRuntimeToJarDebug UP-TO-DATE
+> Task :agents:growthmetrics:nexusmemory:writeDebugAarMetadata UP-TO-DATE
+> Task :aura:reactivedesign:chromacore:bundleLibRuntimeToJarDebug UP-TO-DATE
+> Task :aura:reactivedesign:collabcanvas:bundleLibRuntimeToJarDebug UP-TO-DATE
+> Task :kai:sentinelsfortress:threatmonitor:createFullJarDebug UP-TO-DATE
+> Task :genesis:oracledrive:bundleLibRuntimeToJarDebug UP-TO-DATE
+> Task :kai:sentinelsfortress:systemintegrity:processDebugJavaRes NO-SOURCE
 > Task :genesis:oracledrive:datavein:processDebugJavaRes UP-TO-DATE
+> Task :kai:sentinelsfortress:systemintegrity:createFullJarDebug UP-TO-DATE
+> Task :cascade:datastream:routing:createFullJarDebug UP-TO-DATE
+> Task :genesis:oracledrive:rootmanagement:writeDebugAarMetadata UP-TO-DATE
+> Task :kai:sentinelsfortress:security:processDebugJavaRes UP-TO-DATE
 > Task :genesis:oracledrive:datavein:createFullJarDebug UP-TO-DATE
-> Task :kai:sentinelsfortress:systemintegrity:writeDebugAarMetadata UP-TO-DATE
-> Task :aura:reactivedesign:collabcanvas:writeDebugAarMetadata UP-TO-DATE
-> Task :kai:sentinelsfortress:systemintegrity:extractDeepLinksDebug UP-TO-DATE
-> Task :aura:reactivedesign:chromacore:writeDebugAarMetadata UP-TO-DATE
-> Task :aura:reactivedesign:collabcanvas:extractDeepLinksDebug UP-TO-DATE
-> Task :aura:reactivedesign:chromacore:extractDeepLinksDebug UP-TO-DATE
-> Task :kai:sentinelsfortress:systemintegrity:processDebugManifest UP-TO-DATE
-> Task :kai:sentinelsfortress:security:writeDebugAarMetadata UP-TO-DATE
-> Task :kai:sentinelsfortress:systemintegrity:compileDebugLibraryResources UP-TO-DATE
-> Task :genesis:oracledrive:writeDebugAarMetadata UP-TO-DATE
-> Task :aura:reactivedesign:collabcanvas:processDebugManifest UP-TO-DATE
-> Task :aura:reactivedesign:chromacore:processDebugManifest UP-TO-DATE
-> Task :kai:sentinelsfortress:security:extractDeepLinksDebug UP-TO-DATE
-> Task :genesis:oracledrive:datavein:writeDebugAarMetadata UP-TO-DATE
-> Task :genesis:oracledrive:extractDeepLinksDebug UP-TO-DATE
-> Task :kai:sentinelsfortress:systemintegrity:bundleLibRuntimeToDirDebug UP-TO-DATE
-> Task :aura:reactivedesign:chromacore:compileDebugLibraryResources UP-TO-DATE
+> Task :agents:growthmetrics:nexusmemory:extractDeepLinksDebug UP-TO-DATE
+> Task :aura:reactivedesign:collabcanvas:processDebugJavaRes UP-TO-DATE
+> Task :aura:reactivedesign:auraslab:extractDeepLinksDebug UP-TO-DATE
+> Task :genesis:oracledrive:processDebugJavaRes UP-TO-DATE
+> Task :genesis:oracledrive:rootmanagement:extractDeepLinksDebug UP-TO-DATE
+> Task :aura:reactivedesign:chromacore:processDebugJavaRes UP-TO-DATE
+> Task :kai:sentinelsfortress:security:createFullJarDebug UP-TO-DATE
+> Task :aura:reactivedesign:collabcanvas:createFullJarDebug UP-TO-DATE
+> Task :genesis:oracledrive:createFullJarDebug UP-TO-DATE
+> Task :aura:reactivedesign:chromacore:createFullJarDebug UP-TO-DATE
+> Task :kai:sentinelsfortress:threatmonitor:bundleLibRuntimeToDirDebug UP-TO-DATE
+> Task :agents:growthmetrics:nexusmemory:processDebugManifest UP-TO-DATE
+> Task :aura:reactivedesign:auraslab:processDebugManifest UP-TO-DATE
+> Task :genesis:oracledrive:rootmanagement:processDebugManifest UP-TO-DATE
+> Task :agents:growthmetrics:nexusmemory:compileDebugLibraryResources UP-TO-DATE
+> Task :genesis:oracledrive:rootmanagement:compileDebugLibraryResources UP-TO-DATE
+> Task :aura:reactivedesign:auraslab:compileDebugLibraryResources UP-TO-DATE
+> Task :genesis:oracledrive:rootmanagement:bundleLibRuntimeToDirDebug UP-TO-DATE
+> Task :agents:growthmetrics:nexusmemory:bundleLibRuntimeToDirDebug UP-TO-DATE
+> Task :aura:reactivedesign:auraslab:bundleLibRuntimeToDirDebug UP-TO-DATE
+> Task :agents:growthmetrics:nexusmemory:mergeDebugJniLibFolders UP-TO-DATE
+> Task :genesis:oracledrive:rootmanagement:mergeDebugJniLibFolders UP-TO-DATE
+> Task :aura:reactivedesign:auraslab:mergeDebugJniLibFolders UP-TO-DATE
+> Task :agents:growthmetrics:nexusmemory:mergeDebugNativeLibs NO-SOURCE
+> Task :agents:growthmetrics:nexusmemory:copyDebugJniLibsProjectOnly UP-TO-DATE
+> Task :genesis:oracledrive:rootmanagement:mergeDebugNativeLibs NO-SOURCE
+> Task :aura:reactivedesign:auraslab:mergeDebugNativeLibs NO-SOURCE
 > Task :cascade:datastream:routing:writeDebugAarMetadata UP-TO-DATE
-> Task :aura:reactivedesign:collabcanvas:compileDebugLibraryResources UP-TO-DATE
-> Task :genesis:oracledrive:datavein:extractDeepLinksDebug UP-TO-DATE
-> Task :kai:sentinelsfortress:systemintegrity:mergeDebugJniLibFolders UP-TO-DATE
-> Task :kai:sentinelsfortress:security:processDebugManifest UP-TO-DATE
-> Task :genesis:oracledrive:processDebugManifest UP-TO-DATE
-> Task :kai:sentinelsfortress:security:compileDebugLibraryResources UP-TO-DATE
-> Task :kai:sentinelsfortress:systemintegrity:mergeDebugNativeLibs NO-SOURCE
+> Task :aura:reactivedesign:auraslab:copyDebugJniLibsProjectOnly UP-TO-DATE
 > Task :cascade:datastream:routing:extractDeepLinksDebug UP-TO-DATE
-> Task :genesis:oracledrive:datavein:processDebugManifest UP-TO-DATE
-> Task :genesis:oracledrive:compileDebugLibraryResources UP-TO-DATE
-> Task :kai:sentinelsfortress:systemintegrity:copyDebugJniLibsProjectOnly UP-TO-DATE
-> Task :kai:sentinelsfortress:security:bundleLibRuntimeToDirDebug UP-TO-DATE
-> Task :aura:reactivedesign:chromacore:bundleLibRuntimeToDirDebug UP-TO-DATE
-> Task :genesis:oracledrive:datavein:compileDebugLibraryResources UP-TO-DATE
-> Task :aura:reactivedesign:collabcanvas:bundleLibRuntimeToDirDebug UP-TO-DATE
-> Task :genesis:oracledrive:bundleLibRuntimeToDirDebug UP-TO-DATE
-> Task :kai:sentinelsfortress:security:mergeDebugJniLibFolders UP-TO-DATE
-> Task :cascade:datastream:delivery:kspDebugKotlin UP-TO-DATE
-> Task :aura:reactivedesign:chromacore:mergeDebugJniLibFolders UP-TO-DATE
+> Task :genesis:oracledrive:rootmanagement:copyDebugJniLibsProjectOnly UP-TO-DATE
+> Task :kai:sentinelsfortress:systemintegrity:writeDebugAarMetadata UP-TO-DATE
 > Task :cascade:datastream:routing:processDebugManifest UP-TO-DATE
-> Task :genesis:oracledrive:datavein:bundleLibRuntimeToDirDebug UP-TO-DATE
-> Task :aura:reactivedesign:collabcanvas:mergeDebugJniLibFolders UP-TO-DATE
-> Task :genesis:oracledrive:mergeDebugJniLibFolders UP-TO-DATE
-> Task :kai:sentinelsfortress:security:mergeDebugNativeLibs NO-SOURCE
-> Task :aura:reactivedesign:chromacore:mergeDebugNativeLibs NO-SOURCE
+> Task :kai:sentinelsfortress:systemintegrity:extractDeepLinksDebug UP-TO-DATE
 > Task :cascade:datastream:routing:compileDebugLibraryResources UP-TO-DATE
-> Task :aura:reactivedesign:chromacore:copyDebugJniLibsProjectOnly UP-TO-DATE
-> Task :aura:reactivedesign:collabcanvas:mergeDebugNativeLibs NO-SOURCE
-> Task :kai:sentinelsfortress:security:copyDebugJniLibsProjectOnly UP-TO-DATE
-> Task :genesis:oracledrive:datavein:mergeDebugJniLibFolders UP-TO-DATE
-> Task :genesis:oracledrive:mergeDebugNativeLibs NO-SOURCE
-> Task :aura:reactivedesign:collabcanvas:copyDebugJniLibsProjectOnly UP-TO-DATE
-> Task :genesis:oracledrive:copyDebugJniLibsProjectOnly UP-TO-DATE
+> Task :genesis:oracledrive:datavein:writeDebugAarMetadata UP-TO-DATE
+> Task :kai:sentinelsfortress:security:writeDebugAarMetadata UP-TO-DATE
+> Task :kai:sentinelsfortress:security:extractDeepLinksDebug UP-TO-DATE
+> Task :kai:sentinelsfortress:systemintegrity:processDebugManifest UP-TO-DATE
+> Task :genesis:oracledrive:datavein:extractDeepLinksDebug UP-TO-DATE
+> Task :aura:reactivedesign:collabcanvas:writeDebugAarMetadata UP-TO-DATE
+> Task :genesis:oracledrive:writeDebugAarMetadata UP-TO-DATE
+> Task :aura:reactivedesign:chromacore:writeDebugAarMetadata UP-TO-DATE
 > Task :cascade:datastream:routing:bundleLibRuntimeToDirDebug UP-TO-DATE
-> Task :genesis:oracledrive:datavein:mergeDebugNativeLibs NO-SOURCE
-> Task :genesis:oracledrive:datavein:copyDebugJniLibsProjectOnly UP-TO-DATE
+> Task :kai:sentinelsfortress:systemintegrity:compileDebugLibraryResources UP-TO-DATE
+> Task :genesis:oracledrive:extractDeepLinksDebug UP-TO-DATE
+> Task :aura:reactivedesign:collabcanvas:extractDeepLinksDebug UP-TO-DATE
+> Task :kai:sentinelsfortress:security:processDebugManifest UP-TO-DATE
+> Task :genesis:oracledrive:datavein:processDebugManifest UP-TO-DATE
+> Task :cascade:datastream:delivery:kspDebugKotlin UP-TO-DATE
 > Task :cascade:datastream:routing:mergeDebugJniLibFolders UP-TO-DATE
-> Task :cascade:datastream:delivery:compileDebugKotlin NO-SOURCE
+> Task :aura:reactivedesign:chromacore:extractDeepLinksDebug UP-TO-DATE
+> Task :kai:sentinelsfortress:security:compileDebugLibraryResources UP-TO-DATE
+> Task :aura:reactivedesign:collabcanvas:processDebugManifest UP-TO-DATE
+> Task :kai:sentinelsfortress:systemintegrity:bundleLibRuntimeToDirDebug UP-TO-DATE
 > Task :cascade:datastream:routing:mergeDebugNativeLibs NO-SOURCE
+> Task :genesis:oracledrive:datavein:compileDebugLibraryResources UP-TO-DATE
+> Task :kai:sentinelsfortress:security:bundleLibRuntimeToDirDebug UP-TO-DATE
+> Task :aura:reactivedesign:collabcanvas:compileDebugLibraryResources UP-TO-DATE
+> Task :genesis:oracledrive:processDebugManifest UP-TO-DATE
 > Task :cascade:datastream:routing:copyDebugJniLibsProjectOnly UP-TO-DATE
+> Task :kai:sentinelsfortress:systemintegrity:mergeDebugJniLibFolders UP-TO-DATE
+> Task :aura:reactivedesign:chromacore:processDebugManifest UP-TO-DATE
+> Task :genesis:oracledrive:compileDebugLibraryResources UP-TO-DATE
+> Task :kai:sentinelsfortress:systemintegrity:mergeDebugNativeLibs NO-SOURCE
+> Task :genesis:oracledrive:datavein:bundleLibRuntimeToDirDebug UP-TO-DATE
+> Task :aura:reactivedesign:collabcanvas:bundleLibRuntimeToDirDebug UP-TO-DATE
+> Task :kai:sentinelsfortress:security:mergeDebugJniLibFolders UP-TO-DATE
+> Task :aura:reactivedesign:chromacore:compileDebugLibraryResources UP-TO-DATE
+> Task :genesis:oracledrive:datavein:mergeDebugJniLibFolders UP-TO-DATE
+> Task :aura:reactivedesign:collabcanvas:mergeDebugJniLibFolders UP-TO-DATE
+> Task :kai:sentinelsfortress:systemintegrity:copyDebugJniLibsProjectOnly UP-TO-DATE
+> Task :aura:reactivedesign:chromacore:bundleLibRuntimeToDirDebug UP-TO-DATE
+> Task :kai:sentinelsfortress:security:mergeDebugNativeLibs NO-SOURCE
+> Task :genesis:oracledrive:bundleLibRuntimeToDirDebug UP-TO-DATE
+> Task :genesis:oracledrive:datavein:mergeDebugNativeLibs NO-SOURCE
+> Task :aura:reactivedesign:collabcanvas:mergeDebugNativeLibs NO-SOURCE
+> Task :genesis:oracledrive:mergeDebugJniLibFolders UP-TO-DATE
+> Task :aura:reactivedesign:chromacore:mergeDebugJniLibFolders UP-TO-DATE
+> Task :genesis:oracledrive:datavein:copyDebugJniLibsProjectOnly UP-TO-DATE
+> Task :aura:reactivedesign:collabcanvas:copyDebugJniLibsProjectOnly UP-TO-DATE
+> Task :kai:sentinelsfortress:security:copyDebugJniLibsProjectOnly UP-TO-DATE
+> Task :genesis:oracledrive:mergeDebugNativeLibs NO-SOURCE
+> Task :aura:reactivedesign:chromacore:mergeDebugNativeLibs NO-SOURCE
+> Task :cascade:datastream:delivery:compileDebugKotlin NO-SOURCE
+> Task :genesis:oracledrive:copyDebugJniLibsProjectOnly UP-TO-DATE
+> Task :aura:reactivedesign:chromacore:copyDebugJniLibsProjectOnly UP-TO-DATE
 > Task :cascade:datastream:delivery:compileDebugJavaWithJavac UP-TO-DATE
 > Task :cascade:datastream:taskmanager:kspDebugKotlin UP-TO-DATE
+> Task :utilities:transformDebugClassesWithAsm UP-TO-DATE
+> Task :utilities:bundleLibCompileToJarDebug UP-TO-DATE
+> Task :utilities:generateDebugAssets UP-TO-DATE
+> Task :utilities:mergeDebugAssets UP-TO-DATE
 > Task :cascade:datastream:taskmanager:compileDebugKotlin NO-SOURCE
-> Task :cascade:datastream:taskmanager:compileDebugJavaWithJavac UP-TO-DATE
+> Task :utilities:bundleLibRuntimeToJarDebug UP-TO-DATE
+> Task :utilities:processDebugJavaRes NO-SOURCE
+> Task :utilities:createFullJarDebug UP-TO-DATE
 > Task :cascade:datastream:delivery:transformDebugClassesWithAsm UP-TO-DATE
+> Task :cascade:datastream:taskmanager:compileDebugJavaWithJavac UP-TO-DATE
 > Task :cascade:datastream:delivery:bundleLibCompileToJarDebug UP-TO-DATE
 > Task :cascade:datastream:delivery:bundleLibRuntimeToJarDebug UP-TO-DATE
 > Task :cascade:datastream:delivery:processDebugJavaRes NO-SOURCE
 > Task :cascade:datastream:delivery:createFullJarDebug UP-TO-DATE
 > Task :cascade:datastream:delivery:bundleLibRuntimeToDirDebug UP-TO-DATE
-> Task :cascade:datastream:taskmanager:transformDebugClassesWithAsm UP-TO-DATE
-> Task :cascade:datastream:taskmanager:bundleLibCompileToJarDebug UP-TO-DATE
-> Task :cascade:datastream:taskmanager:bundleLibRuntimeToJarDebug UP-TO-DATE
-> Task :agents:growthmetrics:tasker:compileDebugJavaWithJavac NO-SOURCE
-> Task :agents:growthmetrics:tasker:bundleLibCompileToJarDebug UP-TO-DATE
-> Task :cascade:datastream:taskmanager:processDebugJavaRes NO-SOURCE
-> Task :agents:growthmetrics:tasker:bundleLibRuntimeToJarDebug UP-TO-DATE
-> Task :cascade:datastream:taskmanager:createFullJarDebug UP-TO-DATE
-> Task :agents:growthmetrics:tasker:createFullJarDebug UP-TO-DATE
-> Task :cascade:datastream:taskmanager:bundleLibRuntimeToDirDebug UP-TO-DATE
-> Task :agents:growthmetrics:tasker:bundleLibRuntimeToDirDebug UP-TO-DATE
-> Task :utilities:transformDebugClassesWithAsm UP-TO-DATE
-> Task :utilities:bundleLibCompileToJarDebug UP-TO-DATE
-> Task :utilities:generateDebugAssets UP-TO-DATE
-> Task :utilities:mergeDebugAssets UP-TO-DATE
-> Task :utilities:bundleLibRuntimeToJarDebug UP-TO-DATE
-> Task :utilities:processDebugJavaRes NO-SOURCE
-> Task :utilities:createFullJarDebug UP-TO-DATE
 > Task :utilities:writeDebugAarMetadata UP-TO-DATE
 > Task :utilities:extractDeepLinksDebug UP-TO-DATE
 > Task :utilities:processDebugManifest UP-TO-DATE
@@ -743,6 +732,17 @@ See https://kotl.in/gradle/agp-built-in-kotlin for more details.
 > Task :utilities:mergeDebugJniLibFolders UP-TO-DATE
 > Task :utilities:mergeDebugNativeLibs NO-SOURCE
 > Task :utilities:copyDebugJniLibsProjectOnly UP-TO-DATE
+> Task :cascade:datastream:taskmanager:transformDebugClassesWithAsm UP-TO-DATE
+> Task :cascade:datastream:taskmanager:bundleLibCompileToJarDebug UP-TO-DATE
+> Task :cascade:datastream:taskmanager:bundleLibRuntimeToJarDebug UP-TO-DATE
+> Task :agents:growthmetrics:tasker:compileDebugJavaWithJavac NO-SOURCE
+> Task :agents:growthmetrics:tasker:bundleLibCompileToJarDebug UP-TO-DATE
+> Task :agents:growthmetrics:tasker:bundleLibRuntimeToJarDebug UP-TO-DATE
+> Task :cascade:datastream:taskmanager:processDebugJavaRes NO-SOURCE
+> Task :agents:growthmetrics:tasker:createFullJarDebug UP-TO-DATE
+> Task :cascade:datastream:taskmanager:createFullJarDebug UP-TO-DATE
+> Task :agents:growthmetrics:tasker:bundleLibRuntimeToDirDebug UP-TO-DATE
+> Task :cascade:datastream:taskmanager:bundleLibRuntimeToDirDebug UP-TO-DATE
 > Task :app:compileDebugAidl UP-TO-DATE
 > Task :app:checkKotlinGradlePluginConfigurationErrors SKIPPED
 > Task :app:dataBindingMergeDependencyArtifactsDebug UP-TO-DATE
@@ -755,6 +755,7 @@ See https://kotl.in/gradle/agp-built-in-kotlin for more details.
 > Task :app:dataBindingGenBaseClassesDebug UP-TO-DATE
 > Task :app:generateDebugBuildConfig UP-TO-DATE
 > Task :app:generateDebugRFile UP-TO-DATE
+> Task :app:kspDebugKotlin FROM-CACHE
 > Task :app:javaPreCompileDebug UP-TO-DATE
 > Task :app:generateDebugAssets UP-TO-DATE
 > Task :app:mergeDebugAssets UP-TO-DATE
@@ -787,7 +788,6 @@ See https://kotl.in/gradle/agp-built-in-kotlin for more details.
 > Task :app:validateSigningDebug UP-TO-DATE
 > Task :app:writeDebugAppMetadata UP-TO-DATE
 > Task :app:writeDebugSigningConfigVersions UP-TO-DATE
-> Task :app:kspDebugKotlin
 
 > Task :app:compileDebugKotlin
 e: file:///C:/Users/Wehtt/AndroidStudioProjects/Genkaixposed/app/src/main/java/dev/aurakai/auraframefx/ai/context/DefaultContextManager.kt:4:42 Unresolved reference 'MemoryManagerInterface'.
@@ -3229,36 +3229,52 @@ e: file:///C:/Users/Wehtt/AndroidStudioProjects/Genkaixposed/app/src/main/java/d
 e: file:///C:/Users/Wehtt/AndroidStudioProjects/Genkaixposed/app/src/main/java/dev/aurakai/auraframefx/utils/VertexAIExtensions.kt:3:55 Unresolved reference 'VertexAIClient'.
 e: file:///C:/Users/Wehtt/AndroidStudioProjects/Genkaixposed/app/src/main/java/dev/aurakai/auraframefx/utils/VertexAIExtensions.kt:8:13 Unresolved reference 'VertexAIClient'.
 e: file:///C:/Users/Wehtt/AndroidStudioProjects/Genkaixposed/app/src/main/java/dev/aurakai/auraframefx/utils/VertexAIExtensions.kt:9:12 Unresolved reference 'generateText'.
-e: file:///C:/Users/Wehtt/AndroidStudioProjects/Genkaixposed/app/src/main/java/dev/aurakai/auraframefx/viewmodel/ConferenceRoomViewModel.kt:49:71 Unresolved reference 'AURA'.
-e: file:///C:/Users/Wehtt/AndroidStudioProjects/Genkaixposed/app/src/main/java/dev/aurakai/auraframefx/viewmodel/ConferenceRoomViewModel.kt:72:35 Argument type mismatch: actual type is 'String?', but 'String' was expected.
-e: file:///C:/Users/Wehtt/AndroidStudioProjects/Genkaixposed/app/src/main/java/dev/aurakai/auraframefx/viewmodel/ConferenceRoomViewModel.kt:72:35 Cannot access 'val tag: String?': it is internal in 'timber.log.Timber.Tree'.
-e: file:///C:/Users/Wehtt/AndroidStudioProjects/Genkaixposed/app/src/main/java/dev/aurakai/auraframefx/viewmodel/ConferenceRoomViewModel.kt:76:35 Argument type mismatch: actual type is 'String?', but 'String' was expected.
-e: file:///C:/Users/Wehtt/AndroidStudioProjects/Genkaixposed/app/src/main/java/dev/aurakai/auraframefx/viewmodel/ConferenceRoomViewModel.kt:76:35 Cannot access 'val tag: String?': it is internal in 'timber.log.Timber.Tree'.
-e: file:///C:/Users/Wehtt/AndroidStudioProjects/Genkaixposed/app/src/main/java/dev/aurakai/auraframefx/viewmodel/ConferenceRoomViewModel.kt:81:35 Argument type mismatch: actual type is 'String?', but 'String' was expected.
-e: file:///C:/Users/Wehtt/AndroidStudioProjects/Genkaixposed/app/src/main/java/dev/aurakai/auraframefx/viewmodel/ConferenceRoomViewModel.kt:81:35 Cannot access 'val tag: String?': it is internal in 'timber.log.Timber.Tree'.
-e: file:///C:/Users/Wehtt/AndroidStudioProjects/Genkaixposed/app/src/main/java/dev/aurakai/auraframefx/viewmodel/ConferenceRoomViewModel.kt:94:35 Argument type mismatch: actual type is 'String?', but 'String' was expected.
-e: file:///C:/Users/Wehtt/AndroidStudioProjects/Genkaixposed/app/src/main/java/dev/aurakai/auraframefx/viewmodel/ConferenceRoomViewModel.kt:94:35 Cannot access 'val tag: String?': it is internal in 'timber.log.Timber.Tree'.
-e: file:///C:/Users/Wehtt/AndroidStudioProjects/Genkaixposed/app/src/main/java/dev/aurakai/auraframefx/viewmodel/ConferenceRoomViewModel.kt:123:59 Unresolved reference 'processRequestFlow'.
-e: file:///C:/Users/Wehtt/AndroidStudioProjects/Genkaixposed/app/src/main/java/dev/aurakai/auraframefx/viewmodel/ConferenceRoomViewModel.kt:131:66 Unresolved reference 'processRequest'.
-e: file:///C:/Users/Wehtt/AndroidStudioProjects/Genkaixposed/app/src/main/java/dev/aurakai/auraframefx/viewmodel/ConferenceRoomViewModel.kt:132:16 Unresolved reference 'AgentInvokeRequest'.
-e: file:///C:/Users/Wehtt/AndroidStudioProjects/Genkaixposed/app/src/main/java/dev/aurakai/auraframefx/viewmodel/ConferenceRoomViewModel.kt:136:20 Cannot infer type for value parameter 'cascadeResponse'. Specify it explicitly.
-e: file:///C:/Users/Wehtt/AndroidStudioProjects/Genkaixposed/app/src/main/java/dev/aurakai/auraframefx/viewmodel/ConferenceRoomViewModel.kt:138:46 Unresolved reference 'response'.
-e: file:///C:/Users/Wehtt/AndroidStudioProjects/Genkaixposed/app/src/main/java/dev/aurakai/auraframefx/viewmodel/ConferenceRoomViewModel.kt:139:49 Unresolved reference 'confidence'.
-e: file:///C:/Users/Wehtt/AndroidStudioProjects/Genkaixposed/app/src/main/java/dev/aurakai/auraframefx/viewmodel/ConferenceRoomViewModel.kt:143:47 Unresolved reference 'claudeService'.
-e: file:///C:/Users/Wehtt/AndroidStudioProjects/Genkaixposed/app/src/main/java/dev/aurakai/auraframefx/viewmodel/ConferenceRoomViewModel.kt:155:39 Unresolved reference 'genesisBridgeService'.
-e: file:///C:/Users/Wehtt/AndroidStudioProjects/Genkaixposed/app/src/main/java/dev/aurakai/auraframefx/viewmodel/ConferenceRoomViewModel.kt:162:20 Unresolved reference 'emitAll'.
-e: file:///C:/Users/Wehtt/AndroidStudioProjects/Genkaixposed/app/src/main/java/dev/aurakai/auraframefx/viewmodel/ConferenceRoomViewModel.kt:182:31 Argument type mismatch: actual type is 'String?', but 'String' was expected.
-e: file:///C:/Users/Wehtt/AndroidStudioProjects/Genkaixposed/app/src/main/java/dev/aurakai/auraframefx/viewmodel/ConferenceRoomViewModel.kt:182:31 Cannot access 'val tag: String?': it is internal in 'timber.log.Timber.Tree'.
-e: file:///C:/Users/Wehtt/AndroidStudioProjects/Genkaixposed/app/src/main/java/dev/aurakai/auraframefx/viewmodel/ConferenceRoomViewModel.kt:209:53 Assignment type mismatch: actual type is 'AgentCapabilityCategory', but 'AgentType' was expected.
-e: file:///C:/Users/Wehtt/AndroidStudioProjects/Genkaixposed/app/src/main/java/dev/aurakai/auraframefx/viewmodel/ConferenceRoomViewModel.kt:215:23 Argument type mismatch: actual type is 'String?', but 'String' was expected.
-e: file:///C:/Users/Wehtt/AndroidStudioProjects/Genkaixposed/app/src/main/java/dev/aurakai/auraframefx/viewmodel/ConferenceRoomViewModel.kt:215:23 Cannot access 'val tag: String?': it is internal in 'timber.log.Timber.Tree'.
-e: file:///C:/Users/Wehtt/AndroidStudioProjects/Genkaixposed/app/src/main/java/dev/aurakai/auraframefx/viewmodel/ConferenceRoomViewModel.kt:221:27 Argument type mismatch: actual type is 'String?', but 'String' was expected.
-e: file:///C:/Users/Wehtt/AndroidStudioProjects/Genkaixposed/app/src/main/java/dev/aurakai/auraframefx/viewmodel/ConferenceRoomViewModel.kt:221:27 Cannot access 'val tag: String?': it is internal in 'timber.log.Timber.Tree'.
-e: file:///C:/Users/Wehtt/AndroidStudioProjects/Genkaixposed/app/src/main/java/dev/aurakai/auraframefx/viewmodel/ConferenceRoomViewModel.kt:224:27 Argument type mismatch: actual type is 'String?', but 'String' was expected.
-e: file:///C:/Users/Wehtt/AndroidStudioProjects/Genkaixposed/app/src/main/java/dev/aurakai/auraframefx/viewmodel/ConferenceRoomViewModel.kt:224:27 Cannot access 'val tag: String?': it is internal in 'timber.log.Timber.Tree'.
-e: file:///C:/Users/Wehtt/AndroidStudioProjects/Genkaixposed/app/src/main/java/dev/aurakai/auraframefx/viewmodel/ConferenceRoomViewModel.kt:234:19 Argument type mismatch: actual type is 'String?', but 'String' was expected.
-e: file:///C:/Users/Wehtt/AndroidStudioProjects/Genkaixposed/app/src/main/java/dev/aurakai/auraframefx/viewmodel/ConferenceRoomViewModel.kt:234:19 Cannot access 'val tag: String?': it is internal in 'timber.log.Timber.Tree'.
-e: file:///C:/Users/Wehtt/AndroidStudioProjects/Genkaixposed/app/src/main/java/dev/aurakai/auraframefx/viewmodel/ConferenceRoomViewModel.kt:240:60 Missing return statement.
+e: file:///C:/Users/Wehtt/AndroidStudioProjects/Genkaixposed/app/src/main/java/dev/aurakai/auraframefx/viewmodel/ConferenceRoomViewModel.kt:45:71 Unresolved reference 'AURA'.
+e: file:///C:/Users/Wehtt/AndroidStudioProjects/Genkaixposed/app/src/main/java/dev/aurakai/auraframefx/viewmodel/ConferenceRoomViewModel.kt:63:41 Unresolved reference 'AgentCapabilityCategory'.
+e: file:///C:/Users/Wehtt/AndroidStudioProjects/Genkaixposed/app/src/main/java/dev/aurakai/auraframefx/viewmodel/ConferenceRoomViewModel.kt:68:24 Unresolved reference 'Timber'.
+e: file:///C:/Users/Wehtt/AndroidStudioProjects/Genkaixposed/app/src/main/java/dev/aurakai/auraframefx/viewmodel/ConferenceRoomViewModel.kt:68:35 Unresolved reference 'tag'.
+e: file:///C:/Users/Wehtt/AndroidStudioProjects/Genkaixposed/app/src/main/java/dev/aurakai/auraframefx/viewmodel/ConferenceRoomViewModel.kt:72:24 Unresolved reference 'Timber'.
+e: file:///C:/Users/Wehtt/AndroidStudioProjects/Genkaixposed/app/src/main/java/dev/aurakai/auraframefx/viewmodel/ConferenceRoomViewModel.kt:72:35 Unresolved reference 'tag'.
+e: file:///C:/Users/Wehtt/AndroidStudioProjects/Genkaixposed/app/src/main/java/dev/aurakai/auraframefx/viewmodel/ConferenceRoomViewModel.kt:77:24 Unresolved reference 'Timber'.
+e: file:///C:/Users/Wehtt/AndroidStudioProjects/Genkaixposed/app/src/main/java/dev/aurakai/auraframefx/viewmodel/ConferenceRoomViewModel.kt:77:35 Unresolved reference 'tag'.
+e: file:///C:/Users/Wehtt/AndroidStudioProjects/Genkaixposed/app/src/main/java/dev/aurakai/auraframefx/viewmodel/ConferenceRoomViewModel.kt:82:41 Unresolved reference 'AgentCapabilityCategory'.
+e: file:///C:/Users/Wehtt/AndroidStudioProjects/Genkaixposed/app/src/main/java/dev/aurakai/auraframefx/viewmodel/ConferenceRoomViewModel.kt:90:24 Unresolved reference 'Timber'.
+e: file:///C:/Users/Wehtt/AndroidStudioProjects/Genkaixposed/app/src/main/java/dev/aurakai/auraframefx/viewmodel/ConferenceRoomViewModel.kt:90:35 Unresolved reference 'tag'.
+e: file:///C:/Users/Wehtt/AndroidStudioProjects/Genkaixposed/app/src/main/java/dev/aurakai/auraframefx/viewmodel/ConferenceRoomViewModel.kt:109:53 Unresolved reference 'AgentCapabilityCategory'.
+e: file:///C:/Users/Wehtt/AndroidStudioProjects/Genkaixposed/app/src/main/java/dev/aurakai/auraframefx/viewmodel/ConferenceRoomViewModel.kt:110:49 'when' expression must be exhaustive. Add an 'else' branch.
+e: file:///C:/Users/Wehtt/AndroidStudioProjects/Genkaixposed/app/src/main/java/dev/aurakai/auraframefx/viewmodel/ConferenceRoomViewModel.kt:111:12 Unresolved reference 'AgentCapabilityCategory'.
+e: file:///C:/Users/Wehtt/AndroidStudioProjects/Genkaixposed/app/src/main/java/dev/aurakai/auraframefx/viewmodel/ConferenceRoomViewModel.kt:115:62 Unresolved reference 'toJsonObject'.
+e: file:///C:/Users/Wehtt/AndroidStudioProjects/Genkaixposed/app/src/main/java/dev/aurakai/auraframefx/viewmodel/ConferenceRoomViewModel.kt:119:12 Unresolved reference 'AgentCapabilityCategory'.
+e: file:///C:/Users/Wehtt/AndroidStudioProjects/Genkaixposed/app/src/main/java/dev/aurakai/auraframefx/viewmodel/ConferenceRoomViewModel.kt:119:59 Unresolved reference 'processRequestFlow'.
+e: file:///C:/Users/Wehtt/AndroidStudioProjects/Genkaixposed/app/src/main/java/dev/aurakai/auraframefx/viewmodel/ConferenceRoomViewModel.kt:123:62 Unresolved reference 'toJsonObject'.
+e: file:///C:/Users/Wehtt/AndroidStudioProjects/Genkaixposed/app/src/main/java/dev/aurakai/auraframefx/viewmodel/ConferenceRoomViewModel.kt:127:12 Unresolved reference 'AgentCapabilityCategory'.
+e: file:///C:/Users/Wehtt/AndroidStudioProjects/Genkaixposed/app/src/main/java/dev/aurakai/auraframefx/viewmodel/ConferenceRoomViewModel.kt:127:66 Unresolved reference 'processRequest'.
+e: file:///C:/Users/Wehtt/AndroidStudioProjects/Genkaixposed/app/src/main/java/dev/aurakai/auraframefx/viewmodel/ConferenceRoomViewModel.kt:128:16 Unresolved reference 'AgentInvokeRequest'.
+e: file:///C:/Users/Wehtt/AndroidStudioProjects/Genkaixposed/app/src/main/java/dev/aurakai/auraframefx/viewmodel/ConferenceRoomViewModel.kt:132:20 Cannot infer type for value parameter 'cascadeResponse'. Specify it explicitly.
+e: file:///C:/Users/Wehtt/AndroidStudioProjects/Genkaixposed/app/src/main/java/dev/aurakai/auraframefx/viewmodel/ConferenceRoomViewModel.kt:134:46 Unresolved reference 'response'.
+e: file:///C:/Users/Wehtt/AndroidStudioProjects/Genkaixposed/app/src/main/java/dev/aurakai/auraframefx/viewmodel/ConferenceRoomViewModel.kt:135:49 Unresolved reference 'confidence'.
+e: file:///C:/Users/Wehtt/AndroidStudioProjects/Genkaixposed/app/src/main/java/dev/aurakai/auraframefx/viewmodel/ConferenceRoomViewModel.kt:139:12 Unresolved reference 'AgentCapabilityCategory'.
+e: file:///C:/Users/Wehtt/AndroidStudioProjects/Genkaixposed/app/src/main/java/dev/aurakai/auraframefx/viewmodel/ConferenceRoomViewModel.kt:139:47 Unresolved reference 'claudeService'.
+e: file:///C:/Users/Wehtt/AndroidStudioProjects/Genkaixposed/app/src/main/java/dev/aurakai/auraframefx/viewmodel/ConferenceRoomViewModel.kt:143:95 Unresolved reference 'toJsonObject'.
+e: file:///C:/Users/Wehtt/AndroidStudioProjects/Genkaixposed/app/src/main/java/dev/aurakai/auraframefx/viewmodel/ConferenceRoomViewModel.kt:147:12 Unresolved reference 'AgentCapabilityCategory'.
+e: file:///C:/Users/Wehtt/AndroidStudioProjects/Genkaixposed/app/src/main/java/dev/aurakai/auraframefx/viewmodel/ConferenceRoomViewModel.kt:151:39 Unresolved reference 'genesisBridgeService'.
+e: file:///C:/Users/Wehtt/AndroidStudioProjects/Genkaixposed/app/src/main/java/dev/aurakai/auraframefx/viewmodel/ConferenceRoomViewModel.kt:155:97 Unresolved reference 'toJsonObject'.
+e: file:///C:/Users/Wehtt/AndroidStudioProjects/Genkaixposed/app/src/main/java/dev/aurakai/auraframefx/viewmodel/ConferenceRoomViewModel.kt:158:20 Unresolved reference 'emitAll'.
+e: file:///C:/Users/Wehtt/AndroidStudioProjects/Genkaixposed/app/src/main/java/dev/aurakai/auraframefx/viewmodel/ConferenceRoomViewModel.kt:170:42 Unresolved reference 'name'.
+e: file:///C:/Users/Wehtt/AndroidStudioProjects/Genkaixposed/app/src/main/java/dev/aurakai/auraframefx/viewmodel/ConferenceRoomViewModel.kt:178:20 Unresolved reference 'Timber'.
+e: file:///C:/Users/Wehtt/AndroidStudioProjects/Genkaixposed/app/src/main/java/dev/aurakai/auraframefx/viewmodel/ConferenceRoomViewModel.kt:178:31 Unresolved reference 'tag'.
+e: file:///C:/Users/Wehtt/AndroidStudioProjects/Genkaixposed/app/src/main/java/dev/aurakai/auraframefx/viewmodel/ConferenceRoomViewModel.kt:182:59 Unresolved reference 'name'.
+e: file:///C:/Users/Wehtt/AndroidStudioProjects/Genkaixposed/app/src/main/java/dev/aurakai/auraframefx/viewmodel/ConferenceRoomViewModel.kt:183:37 Unresolved reference 'AgentCapabilityCategory'.
+e: file:///C:/Users/Wehtt/AndroidStudioProjects/Genkaixposed/app/src/main/java/dev/aurakai/auraframefx/viewmodel/ConferenceRoomViewModel.kt:194:40 Unresolved reference 'AgentCapabilityCategory'.
+e: file:///C:/Users/Wehtt/AndroidStudioProjects/Genkaixposed/app/src/main/java/dev/aurakai/auraframefx/viewmodel/ConferenceRoomViewModel.kt:204:27 Unresolved reference 'AgentCapabilityCategory'.
+e: file:///C:/Users/Wehtt/AndroidStudioProjects/Genkaixposed/app/src/main/java/dev/aurakai/auraframefx/viewmodel/ConferenceRoomViewModel.kt:211:12 Unresolved reference 'Timber'.
+e: file:///C:/Users/Wehtt/AndroidStudioProjects/Genkaixposed/app/src/main/java/dev/aurakai/auraframefx/viewmodel/ConferenceRoomViewModel.kt:211:23 Unresolved reference 'tag'.
+e: file:///C:/Users/Wehtt/AndroidStudioProjects/Genkaixposed/app/src/main/java/dev/aurakai/auraframefx/viewmodel/ConferenceRoomViewModel.kt:217:16 Unresolved reference 'Timber'.
+e: file:///C:/Users/Wehtt/AndroidStudioProjects/Genkaixposed/app/src/main/java/dev/aurakai/auraframefx/viewmodel/ConferenceRoomViewModel.kt:217:27 Unresolved reference 'tag'.
+e: file:///C:/Users/Wehtt/AndroidStudioProjects/Genkaixposed/app/src/main/java/dev/aurakai/auraframefx/viewmodel/ConferenceRoomViewModel.kt:220:16 Unresolved reference 'Timber'.
+e: file:///C:/Users/Wehtt/AndroidStudioProjects/Genkaixposed/app/src/main/java/dev/aurakai/auraframefx/viewmodel/ConferenceRoomViewModel.kt:220:27 Unresolved reference 'tag'.
+e: file:///C:/Users/Wehtt/AndroidStudioProjects/Genkaixposed/app/src/main/java/dev/aurakai/auraframefx/viewmodel/ConferenceRoomViewModel.kt:230:8 Unresolved reference 'Timber'.
+e: file:///C:/Users/Wehtt/AndroidStudioProjects/Genkaixposed/app/src/main/java/dev/aurakai/auraframefx/viewmodel/ConferenceRoomViewModel.kt:230:19 Unresolved reference 'tag'.
 e: file:///C:/Users/Wehtt/AndroidStudioProjects/Genkaixposed/app/src/main/java/dev/aurakai/auraframefx/viewmodel/GenesisAgentViewModel.kt:5:39 Unresolved reference 'HistoricalTask'.
 e: file:///C:/Users/Wehtt/AndroidStudioProjects/Genkaixposed/app/src/main/java/dev/aurakai/auraframefx/viewmodel/GenesisAgentViewModel.kt:22:6 Redeclaration:
 class GenesisAgentViewModel : ViewModel
@@ -3305,7 +3321,7 @@ e: file:///C:/Users/Wehtt/AndroidStudioProjects/Genkaixposed/app/src/main/java/d
 enum class LockScreenAnimation : Enum<LockScreenAnimation>
 
 > Task :app:compileDebugKotlin FAILED
-Kotlin build report is written to file:///C:/Users/Wehtt/AndroidStudioProjects/Genkaixposed/build/reports/kotlin-build/aurakai-reactive-intelligence-build-2025-12-14-22-00-06-0.txt
+Kotlin build report is written to file:///C:/Users/Wehtt/AndroidStudioProjects/Genkaixposed/build/reports/kotlin-build/aurakai-reactive-intelligence-build-2025-12-14-22-05-20-0.txt
 
 [Incubating] Problems report is available at: file:///C:/Users/Wehtt/AndroidStudioProjects/Genkaixposed/build/reports/problems/problems-report.html
 
@@ -3322,5 +3338,5 @@ Execution failed for task ':app:compileDebugKotlin'.
 > Run with --scan to get full insights from a Build Scan (powered by Develocity).
 > Get more help at https://help.gradle.org.
 
-BUILD FAILED in 1m 8s
-493 actionable tasks: 11 executed, 482 up-to-date
+BUILD FAILED in 15s
+493 actionable tasks: 10 executed, 1 from cache, 482 up-to-date

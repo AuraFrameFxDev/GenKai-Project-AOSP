@@ -2,7 +2,6 @@ package dev.aurakai.auraframefx.kai
 
 import dev.aurakai.auraframefx.ai.agents.BaseAgent
 import dev.aurakai.auraframefx.ai.clients.VertexAIClient
-import dev.aurakai.auraframefx.ai.context.ContextManager
 import dev.aurakai.auraframefx.core.OrchestratableAgent
 import dev.aurakai.auraframefx.kai.security.SecurityAnalysis
 import dev.aurakai.auraframefx.kai.security.ThreatLevel
@@ -22,8 +21,17 @@ import kotlinx.coroutines.cancelChildren
 import kotlinx.coroutines.flow.MutableStateFlow
 import kotlinx.coroutines.flow.StateFlow
 import kotlinx.coroutines.launch
+import kotlinx.serialization.json.JsonObject
 import javax.inject.Inject
 import javax.inject.Singleton
+
+private fun Map<String, Nothing>.toJsonObject(): JsonObject {
+    TODO("Not yet implemented")
+}
+
+private fun Map<String, Nothing>.forEach() {
+    TODO("Not yet implemented")
+}
 
 /**
  * KaiAgent: The Sentinel Shield
@@ -31,9 +39,8 @@ import javax.inject.Singleton
  * Embodies the analytical, protective, and methodical aspects of the Genesis entity.
  */
 @Singleton
-open class KaiAgent @Inject constructor(
+abstract class KaiAgent @Inject constructor(
     private val vertexAIClient: VertexAIClient,
-    override val contextManager: ContextManager,
     private val securityContext: SecurityContext,
     private val systemMonitor: SystemMonitor,
 ) : BaseAgent(agentName = "KaiAgent", agentTypeStr = "security"), OrchestratableAgent {
@@ -61,10 +68,6 @@ open class KaiAgent @Inject constructor(
         } else {
             AuraFxLogger.error("KaiAgent", "Scope not initialized for iRequest")
         }
-    }
-
-    override fun iRequest() {
-        AuraFxLogger.info("KaiAgent", "iRequest() called")
     }
 
     /**
@@ -150,6 +153,12 @@ open class KaiAgent @Inject constructor(
             throw e
         }
     }
+
+    abstract fun AgentResponse(
+        content: String,
+        confidence: Float,
+        p2: Any
+    ): AgentResponse
 
     /**
      * Processes an analytical request by validating its security and delegating it to the appropriate analysis handler.
@@ -254,11 +263,17 @@ open class KaiAgent @Inject constructor(
                     "agent" to "kai",
                     "confidence" to 0.5f,
                     "error" to (e.message ?: "unknown error")
-                ).toJsonObject(),
+                ).forEach(),
                 timestamp = System.currentTimeMillis()
             )
         }
     }
+
+    abstract fun InteractionResponse(
+        content: String,
+        metadata: JsonObject,
+        timestamp: Long
+    ): InteractionResponse
 
     /**
      * Analyzes a reported security threat and returns an assessment with threat level, recommendations, and confidence.
@@ -622,3 +637,7 @@ data class SecurityAssessment(
     val recommendations: List<String>,
     val confidence: Float,
 )
+
+override fun iRequest(query: String, type: String, context: Map<String, String>) {
+    AuraFxLogger.info("KaiAgent", "iRequest() called")
+}

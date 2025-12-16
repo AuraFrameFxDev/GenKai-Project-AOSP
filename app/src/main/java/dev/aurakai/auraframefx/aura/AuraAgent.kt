@@ -295,7 +295,8 @@ class AuraAgent @Inject constructor(
                 CreativeIntent.EMOTIONAL -> generateEmotionalResponse(interaction)
             }
 
-            InteractionResponse(content = creativeResponse, metadata = mapOf(
+            InteractionResponse(
+                content = creativeResponse, metadata = mapOf(
                 "agent" to "AURA",
                 "confidence" to 0.9f,
                 "creative_intent" to creativeIntent.name,

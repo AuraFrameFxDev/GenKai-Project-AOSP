@@ -7,6 +7,7 @@ import dev.aurakai.auraframefx.models.InteractionResponse
 import dev.aurakai.auraframefx.utils.toKotlinJsonObject
 import kotlinx.coroutines.flow.Flow
 import kotlinx.coroutines.flow.flow
+import kotlinx.serialization.json.JsonObject
 import timber.log.Timber
 
 interface Agent {
@@ -145,4 +146,6 @@ abstract class BaseAgent(
     open fun initializeAdaptiveProtection() {
         Timber.d("initializeAdaptiveProtection called for %s", agentName)
     }
+
+    abstract fun InteractionResponse(content: String, metadata: kotlinx.serialization.json.JsonObject, timestamp: Long): dev.aurakai.auraframefx.models.InteractionResponse
 }

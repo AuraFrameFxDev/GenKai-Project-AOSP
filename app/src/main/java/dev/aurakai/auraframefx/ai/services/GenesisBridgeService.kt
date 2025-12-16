@@ -208,7 +208,7 @@ class GenesisBridgeService @Inject constructor(
                 AgentResponse(
                     content = "Genesis bridge error: ${e.message}",
                     confidence = 0.0f,
-                    error = e.message, ,
+                    error = e.message
                 )
             )
         }
